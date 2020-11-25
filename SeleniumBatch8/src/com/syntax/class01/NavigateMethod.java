@@ -15,7 +15,7 @@ public class NavigateMethod {
         driver.navigate().forward();
         Thread.sleep(1000);
         driver.navigate().refresh();
-        //driver.close();
+        //driver.close();//
         driver.quit();
 
     }

@@ -1,11 +1,11 @@
 package com.syntax.HW;
 
-class Main2 {
+class Main {
     final void print(){
         System.out.println("https://syntaxtechs.com");
     }
     public static void main(String[] args) {
-        Main2 main =new Main2();
+        Main main =new Main();
         main.print();
     }
 }

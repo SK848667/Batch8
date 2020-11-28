@@ -22,8 +22,8 @@ close the browser
         //driver.findElement(By.partialLinkText("Create New account")).click();
         driver.findElement(By.id("u_0_2")).click();
         Thread.sleep(2000);
-        driver.findElement(By.name("firstname")).sendKeys("firstname");
-        driver.findElement(By.name("lastname")).sendKeys("lastname");
+        driver.findElement(By.name("firstname")).sendKeys("Firstname");
+        driver.findElement(By.name("lastname")).sendKeys("Lastname");
         driver.findElement(By.name("reg_email__")).sendKeys("email@email.com");
         driver.findElement (By.name ( "reg_email_confirmation__" ) ).sendKeys ("email@email.com");
         driver.findElement(By.id("password_step_input")).sendKeys("password");

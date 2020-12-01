@@ -20,17 +20,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14bb1dd2-f8d9-4bc7-acb8-f85347c59bd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArrayListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArrayListDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArraysIssues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/Note_Encapsulation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ArrayListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ArraysIssues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Note_Encapsulation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArrayListAddAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArrayListClearAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArrayListContainsAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArrayListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArrayListRetainAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArraysDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArraysListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArraysListRemoveAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/BoxingUnboxing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/WrapperClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/ArrayClassDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/ArrayClassDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/ArrayListIteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/DoNotTryAtHome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/HashsetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/IteratorDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/IteratorDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/IteratorDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/IteratorDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/LinkedHasSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/LinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/LinkedListDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/MultiDimensionArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class31/TreeSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/InstanceVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/InstanceVarDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/LocalVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/StaticVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/StaticVarDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review07/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/ArrayClassDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/ArrayClassDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/ArrayListIteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/DoNotTryAtHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/HashsetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/IteratorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/IteratorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/IteratorDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/IteratorDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/LinkedHasSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/LinkedListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/MultiDimensionArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class31/TreeSetDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArraysIssues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class30/ArraysIssues.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +113,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.ArrayListDemo2">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class30.ArrayListDemo" />
+  <component name="RunManager" selected="Application.IteratorDemo3">
+    <configuration name="ArrayListIteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.ArrayListIteratorDemo" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class30.*" />
+          <option name="PATTERN" value="com.syntax.class31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class30.ArrayListDemo2" />
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.HW" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class30.*" />
+          <option name="PATTERN" value="com.syntax.class31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysIssues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class30.ArraysIssues" />
+    <configuration name="IteratorDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.IteratorDemo2" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class30.*" />
+          <option name="PATTERN" value="com.syntax.class31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GUIApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class29.GUIApplication" />
+    <configuration name="IteratorDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.IteratorDemo3" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class29.*" />
+          <option name="PATTERN" value="com.syntax.class31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.HW.Main" />
+    <configuration name="IteratorDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.IteratorDemo4" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.HW.*" />
+          <option name="PATTERN" value="com.syntax.class31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListDemo2" />
-        <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.ArraysIssues" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.GUIApplication" />
+        <item itemvalue="Application.IteratorDemo3" />
+        <item itemvalue="Application.IteratorDemo2" />
+        <item itemvalue="Application.ArrayListIteratorDemo" />
+        <item itemvalue="Application.IteratorDemo4" />
+        <item itemvalue="Application.HW" />
       </list>
     </recent_temporary>
   </component>
@@ -170,30 +215,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2452" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606579670221">
+    <state x="2452" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606788396815">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2452" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606579670221" />
+    <state x="2452" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606788396815" />
     <state x="2426" y="171" key="FileChooserDialogImpl" timestamp="1606521262101">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2426" y="171" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606521262101" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1606580554279">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1606771379238">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606580554279" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1606580554279">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1606771379238" />
+    <state width="1540" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606770425378" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1606771379237">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606580554279" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1606580554278">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1606771379237" />
+    <state width="1540" height="222" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606770425378" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1606771379237">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606580554278" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1606580554279">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1606771379237" />
+    <state width="1540" height="222" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606770425378" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1606771379238">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606580554279" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1606771379238" />
+    <state width="1540" height="222" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606770425378" />
     <state x="2200" y="4" key="SettingsEditor" timestamp="1606521267921">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>

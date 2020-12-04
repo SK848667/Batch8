@@ -19,33 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14bb1dd2-f8d9-4bc7-acb8-f85347c59bd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review07/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/InstanceVarDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/InstanceVarDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/LocalVarDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/School.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/StaticVarDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/StaticVarDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/Student2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/TicTacToe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/HW/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class03/ClassNotes03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class03/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class03/XPathDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClassNote04" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClearCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ElementCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/HW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/HW/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/HW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/HW2.class" afterDir="false" />
-    </list>
+    <list default="true" id="14bb1dd2-f8d9-4bc7-acb8-f85347c59bd1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -1,4 +1,4 @@
-package com.review01;
+package com.syntax.class00review.review01;
 
 public class SelenuimRecap {
     /* What is selenium

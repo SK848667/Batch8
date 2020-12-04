@@ -6,17 +6,21 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ClearCommand {
+
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
         WebDriver driver = new ChromeDriver();
-        driver.navigate().to("http://secure.smartbearsoftware.com/samples/testcomplete11/WebOrders/login.aspx");
-        WebElement userNameTextBox = driver.findElement(By.xpath("//input[contains(@id,'username')]"));
-        userNameTextBox.sendKeys("Tester");
-        WebElement passwordTextBox = driver.findElement(By.xpath("//input[contains(@name,'pass')]"));
+        driver.get("http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/default.aspx");
+        WebElement usernameTextBox = driver.findElement(By.xpath("//input[contains(@id, 'username')]"));
+        usernameTextBox.sendKeys("Tester");
+        WebElement passwordTextBox = driver.findElement(By.xpath("//input[@type = 'password']"));
         passwordTextBox.sendKeys("test");
+
         Thread.sleep(2000);
-        userNameTextBox.clear();
+
+        usernameTextBox.clear();
         passwordTextBox.clear();
+
 
     }
 }

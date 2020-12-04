@@ -1,4 +1,4 @@
-package com.review01;
+package com.syntax.class00review.review01;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

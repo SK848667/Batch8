@@ -6,15 +6,17 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ElementCommands {
-    public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
+
+    public static void main(String[] args) {
+        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("http://syntaxtechs.com/selenium-practice/basic-radiobutton-demo.php");
-        WebElement ageRadioButton = driver.findElement(By.xpath("//input[@value='0 - 5']"));
-        boolean isRadioButtonEnabled = ageRadioButton.isEnabled();
-        boolean isRadioButtonDisplayed=ageRadioButton.isDisplayed();
-        System.out.println(isRadioButtonEnabled);
-        System.out.println(isRadioButtonDisplayed);
+        WebElement ageRadioButton = driver.findElement(By.xpath("//input[@value = '0 - 5']"));
+        boolean isRadioBtnEnabled = ageRadioButton.isEnabled();
+        boolean isRadioBtnDisplayed = ageRadioButton.isDisplayed();
+        System.out.println(isRadioBtnEnabled);
+        System.out.println(isRadioBtnDisplayed);
+
 
         System.out.println("Before clicking " + ageRadioButton.isSelected());
         ageRadioButton.click();

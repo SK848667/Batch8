@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14bb1dd2-f8d9-4bc7-acb8-f85347c59bd1" name="Default Changelist" comment="" />
+    <list default="true" id="14bb1dd2-f8d9-4bc7-acb8-f85347c59bd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClearCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClearCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ElementCommands.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ElementCommands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClearCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClearCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/CssSelectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/CssSelectorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ElementCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ElementCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/GetAllLinksFromEbay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/GetAllLinksFromEbay.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

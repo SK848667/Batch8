@@ -20,14 +20,161 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14bb1dd2-f8d9-4bc7-acb8-f85347c59bd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClearCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClearCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ElementCommands.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ElementCommands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClearCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClearCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/CssSelectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/CssSelectorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ElementCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ElementCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/GetAllLinksFromEbay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/GetAllLinksFromEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass01/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass01/ScannerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass01/StringCan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass01/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass02/Debugging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass02/IfCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass02/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass02/NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass02/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass03/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass03/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/SimpleWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass04/WhileLoopsWithSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass07/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass07/StringClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass07/StringClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass07/StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass08/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass08/CalculatorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass08/CalculatorTester2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass08/MethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass08/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass08/MethodsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass08/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/InstanceVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/InstanceVarDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/LocalVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/StaticVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/StaticVarDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass10/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/CreditCardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/FlowerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/InsuranceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class32/SetsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/DownloadFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/DownloadFile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class33/ThreadSafty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review01/ForLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review01/WhileLoopWithSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review01/recap04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review02/Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review02/LogicalAnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review02/LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review02/NestedIfCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review02/SwitchHomeWorkCALC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review02/recapM_F.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review03/Array3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review03/ArrayRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review03/Math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review03/ReplitStringArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review03/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/ClassesAndObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/Librarian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review04/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review05/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review05/StringClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review06/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class00review/review07/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass5/StringClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass5/StringPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass6/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass6/CalculatorTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass6/CalculatorTester2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass6/MethodExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass6/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass6/MethodsExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/InstanceVarDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/InstanceVarDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/LocalVarDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/StaticVarDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/StaticVarDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/Student2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass7/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review01/ForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review01/WhileLoopWithSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review01/recap04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review02/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review02/LogicalAnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review02/LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review02/NestedIfCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review02/SwitchHomeWorkCALC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review02/recapM_F.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review03/Array3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review03/ArrayRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review03/Math.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review03/ReplitStringArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review03/School.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/ClassesAndObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/Librarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review04/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review05/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review05/StringClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review05/StringClass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review05/StringPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review06/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review06/CalculatorTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review06/CalculatorTester2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review06/MethodExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review06/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review06/MethodsExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review06/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/InstanceVarDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/InstanceVarDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/LocalVarDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/School.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/StaticVarDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/StaticVarDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/review07/TicTacToe.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +212,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="FibonacciLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.HW.FibonacciLinkList" />
+  <component name="RunManager" selected="Application.StaticVarDemo (2)">
+    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass01.ScannerClass" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.HW.*" />
+          <option name="PATTERN" value="com.syntax.reviewclass01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.IteratorDemo2" />
+    <configuration name="StaticVarDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class00review.review07.StaticVarDemo" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class31.*" />
+          <option name="PATTERN" value="com.syntax.class00review.review07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHasSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.LinkedHasSetDemo" />
+    <configuration name="StaticVarDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class00review.reviewclass10.StaticVarDemo" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class31.*" />
+          <option name="PATTERN" value="com.syntax.class00review.reviewclass10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class31.LinkedListDemo2" />
+    <configuration name="StaticVarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass7.StaticVarDemo" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class31.*" />
+          <option name="PATTERN" value="com.syntax.reviewclass7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.HW.Main" />
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass10.TicTacToe" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.HW.*" />
+          <option name="PATTERN" value="com.syntax.reviewclass10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LinkedListDemo2" />
-        <item itemvalue="Application.LinkedHasSetDemo" />
-        <item itemvalue="Application.IteratorDemo2" />
-        <item itemvalue="Application.FibonacciLinkList" />
+        <item itemvalue="Application.StaticVarDemo (2)" />
+        <item itemvalue="Application.ScannerClass" />
+        <item itemvalue="Application.StaticVarDemo (1)" />
+        <item itemvalue="Application.StaticVarDemo" />
+        <item itemvalue="Application.TicTacToe" />
       </list>
     </recent_temporary>
   </component>

@@ -9,3 +9,6 @@ How to declare:
       key can be any object
       value can be any object
 
+Always use Iterator to remove the elements from collections and maps
+we can call all the methods on the map except remove.
+

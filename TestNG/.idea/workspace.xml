@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fa3a078-9e41-4b5e-8ae8-809b5d51f2fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/Book3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class36/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/ClassTask01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/DataBaseToWrite.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/ExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/OutputData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/PersonInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/ReadWriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class36/WritingExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/AdvancedWindowHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/ClassNotes07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/ImplicitWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/SimpleWindowHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/ClassNotes08" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/ExplicitWaitHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/FluentWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HandlingDynamicWebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HandlingStaticWebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/TaskExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-7.3.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/JavaBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/JavaBatch8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/HW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/HW/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/HW/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class33/MapDemo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class33/MapDemo8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass11/Constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass11/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass11/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass11/PersonTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass11/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/ConstOverlDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/EmployeeTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/MethodOverTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/MethodOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/OverloadingConsDemoTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/ParentTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass12/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/HW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/HW/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/HW/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass11/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass11/Constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass11/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass11/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass11/PersonTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass11/PersonTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/ConstOverlDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/ConstOverlDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/EmployeeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/EmployeeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/MethodOverTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/MethodOverTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/OverloadingConsDemoTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/OverloadingConsDemoTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/ParentTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass12/ParentTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class33/MapDemo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class33/MapDemo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/syntax/class01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lsgCUltVdRs9S5et2fFrUFo59D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumBatch8/libs/okio-1.14.0.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.Main" />
+      <module name="TestNG" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa3a078-9e41-4b5e-8ae8-809b5d51f2fe" name="Default Changelist" comment="" />
+      <created>1608391086957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608391086957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package com.syntax.reviewclass12;
+package com.syntax.class00review.reviewclass12;
 
 import java.util.ArrayList;
 

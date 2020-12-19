@@ -1,5 +1,4 @@
-package com.syntax.reviewclass11;
-
+package com.syntax.class00review.reviewclass11;
 public class PersonTester {
     public static void main(String[] args) {
 

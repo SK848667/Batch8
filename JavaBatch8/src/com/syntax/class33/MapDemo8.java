@@ -16,6 +16,7 @@ public class MapDemo8 {
         Iterator<Map.Entry<String, Double>> iterator = storeItemsDay1.entrySet().iterator();
         Double sum = 0.0;
         System.out.println(storeItemsDay1.size());
+        System.out.println("************************************");
         while (iterator.hasNext()) {
             Map.Entry<String, Double> next = iterator.next();
             if (next.getKey().equals("Bread")) {

@@ -1,4 +1,4 @@
-package com.syntax.reviewclass12;
+package com.syntax.class00review.reviewclass12;
 
 public class ParentTester {
     public static void main(String[] args) {

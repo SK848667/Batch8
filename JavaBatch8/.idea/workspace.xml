@@ -20,79 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14bb1dd2-f8d9-4bc7-acb8-f85347c59bd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Book3.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class36/TestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/ClassTask01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/DataBaseToWrite.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/ExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/OutputData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/PersonInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/ReadWriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/TestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/WritingExcelData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/HW.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/AdvancedWindowHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/ClassNotes07" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/ImplicitWaitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/SimpleWindowHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/ClassNotes08" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/ExplicitWaitHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/FluentWaitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HandlingDynamicWebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HandlingStaticWebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/TaskExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/TestNG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNG/testng-7.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/CalculationsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/DoCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/TestDatabackUp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class36/WhyTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/BankAccountTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/Book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/InsufficientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/MixedIndividuals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class37/configurations.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/drivers/geckodriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBatch8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class33/MapDemo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class33/MapDemo8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass11/Constructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass11/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass11/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass11/PersonTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass11/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/ConstOverlDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/EmployeeTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/MethodOverTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/MethodOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/OverloadingConsDemoTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/ParentTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/reviewclass12/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/HW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/HW/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/HW/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass11/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass11/Constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass11/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass11/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass11/PersonTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass11/PersonTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/ConstOverlDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/ConstOverlDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/EmployeeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/EmployeeTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/MethodOverTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/MethodOverTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/OverloadingConsDemoTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/OverloadingConsDemoTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/ParentTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass12/ParentTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class36/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class36/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class36/OutputData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class36/OutputData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class36/TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/class36/TestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class36/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class36/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class36/OutputData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class36/OutputData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class36/TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class36/TestData.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,15 +84,15 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/poi/ooxml-lib/xmlbeans-3.1.0.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumBatch8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ReadWriteExcel">
-    <configuration name="ClassTask01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class36.ClassTask01" />
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="CalculationsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class36.CalculationsTester" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
@@ -160,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWriteExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class36.ReadWriteExcel" />
+    <configuration name="Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class36.Exception" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
@@ -173,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class36.Temp" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class37.Task1" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class36.*" />
+          <option name="PATTERN" value="com.syntax.class37.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WritingExcelData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class36.WritingExcelData" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class37.Task2" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class36.*" />
+          <option name="PATTERN" value="com.syntax.class37.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadWriteExcel" />
-        <item itemvalue="Application.WritingExcelData" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.CalculationsTester" />
         <item itemvalue="Application.ExcelFile" />
-        <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.ClassTask01" />
+        <item itemvalue="Application.Exception" />
       </list>
     </recent_temporary>
   </component>

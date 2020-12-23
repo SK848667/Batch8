@@ -26,7 +26,7 @@ Build functions for opening and closing browser
         driver.navigate().to(url);
         WebElement chech= driver.findElement(By.xpath("//input [@type='checkbox']"));
         chech.click();
-       //
+        //
         WebElement removeButton = driver.findElement(By.xpath("//button[contains(text(),'Remove')]"));
         removeButton.click();
         //

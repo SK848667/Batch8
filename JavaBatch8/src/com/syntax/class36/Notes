@@ -18,11 +18,7 @@ Every time we have duplicate data we should be using the excel files
 How to handle Excel files in java
 we can handle excel files using apache poi library.
 
-Create 10 rows with below columns
-FirstName LastName Age Salary Hobby
-fill these rows with random info
-rad these rows check if the salary is greater than 100k
-if yes store that row in new file
+
 what is an Exception in Java.
 Exception is an unwanted behaviour that can cause our programs to terminate abruptly.
 How we should handle these unwanted behaviours  we should use try and catch block to handle

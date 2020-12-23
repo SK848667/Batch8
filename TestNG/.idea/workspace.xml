@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fa3a078-9e41-4b5e-8ae8-809b5d51f2fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class01/HW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/HW1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +104,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaBatch8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumBatch8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest (2)">
-    <configuration name="LoginTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HW.syntaxLogo">
+    <configuration name="HW" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <useClassPathOnly />
       <extension name="coverage">
@@ -121,7 +123,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="com.syntax.class01" />
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.HW" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -137,7 +139,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HW.syntaxLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.syntax.class01" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.HW" />
+      <option name="METHOD_NAME" value="syntaxLogo" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW.validAdminLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.syntax.class01" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.HW" />
+      <option name="METHOD_NAME" value="validAdminLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <useClassPathOnly />
       <extension name="coverage">
@@ -193,7 +253,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.titleValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <useClassPathOnly />
       <extension name="coverage">
@@ -206,38 +266,8 @@
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="com.syntax.class01" />
       <option name="MAIN_CLASS_NAME" value="com.syntax.class01.LoginTest" />
-      <option name="METHOD_NAME" value="titleValidation" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest.validAdminLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.syntax.class01" />
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class01.LoginTest" />
-      <option name="METHOD_NAME" value="validAdminLogin" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -275,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HW.syntaxLogo" />
+        <item itemvalue="TestNG.HW" />
+        <item itemvalue="TestNG.HW.validAdminLogin" />
         <item itemvalue="TestNG.LoginTest (2)" />
         <item itemvalue="TestNG.LoginTest (1)" />
-        <item itemvalue="TestNG.LoginTest.titleValidation" />
-        <item itemvalue="TestNG.LoginTest.validAdminLogin" />
-        <item itemvalue="TestNG.LoginTest" />
       </list>
     </recent_temporary>
   </component>

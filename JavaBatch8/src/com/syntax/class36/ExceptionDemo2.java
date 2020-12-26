@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ExceptionDemo2 {
     public static void main(String[] args) {
 
+
         int[] arr={10,20};
         Scanner scanner=new Scanner(System.in);
         System.out.println("This will execute always");

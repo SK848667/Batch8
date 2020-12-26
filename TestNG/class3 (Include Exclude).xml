@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Class 3 Suite">
+    <test name="Class 3 Suite">
+        <classes>
+            <class name="com.syntax.class3.SoftAssertionModified">
+                <methods>
+                    <include name="logoAndValidLogin"></include>
+                    <exclude name=""></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

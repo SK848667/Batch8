@@ -42,6 +42,7 @@ clear() -- void
 getText() -- String value
 getAttribute() -- string value
 
+
 Task
 Open chrome browser
 Go to “http://18.232.148.34/humanresources/symfony/web/index.php/auth/login”

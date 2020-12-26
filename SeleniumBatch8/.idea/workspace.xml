@@ -1,46 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="141a02d3-1561-49f6-ad2e-8d9fa96e4c1f" name="Default Changelist" comment="">
+    <list default="true" id="d859661b-49be-4f6a-a5f3-76997432c9c9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/JavaBatch8.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/libraries/JarFiles.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/libraries/lib.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/libraries/ooxml_lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/libraries/JarFiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/libraries/libs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/JarFiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JarFiles/Edit configuration.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Smoke.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class3 (Include Exclude).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class3 Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class2/Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class2/DependOnDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class2/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class2/SoftAssertionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class3/GroupsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class3/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class3/SoftAssertionModified.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNG/.idea/libraries/JarFiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNG/JarFiles/Edit configuration.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class02/Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class02/DependOnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class02/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class02/SoftAssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNG/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
@@ -406,260 +381,95 @@
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class37/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class37/Book1.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class37/ExceptionDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class37/ExceptionDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class37/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class37/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/SeleniumBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/SeleniumBatch8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClassNote04" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClassNote04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestNG/com/syntax/class01/ClassTask1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestNG/com/syntax/class01/HW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestNG/com/syntax/class01/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestNG/com/syntax/class01/PreAndPostConditionAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestNG/com/syntax/class01/TestNGIntro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/ClassTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class1/ClassTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class1/HW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class1/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/PreAndPostConditionAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class1/PreAndPostConditionAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/TestNGIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class1/TestNGIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumBatch8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ClassNote04" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class04/ClassNote04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/TestNG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/TestNG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/out/production/TestNG/com/syntax/class01/ClassTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/out/production/TestNG/com/syntax/class01/ClassTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/out/production/TestNG/com/syntax/class01/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/out/production/TestNG/com/syntax/class01/HW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/com/syntax/class01/ClassTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class01/ClassTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/com/syntax/class01/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class01/HW.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1m6iRQoSIk3AiXtHMUktrkuWBrV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1m6oRNMCjltWFBAsP8MCxbksDHx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNG" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.syntax.class03" />
-    </key>
-  </component>
-  <component name="RunManager" selected="TestNG.C:/Users/SK/IntelliJ/TestNG/Smoke.xml">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/SK/IntelliJ/TestNG/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Regression.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners>
-        <listener class="org.testng.reporters.EmailableReporter" />
-      </listeners>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/SK/IntelliJ/TestNG/Smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Smoke.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners>
-        <listener class="org.testng.reporters.EmailableReporter" />
-      </listeners>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/SK/IntelliJ/TestNG/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupsExample.invalidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <useClassPathOnly />
+  <component name="RunManager" selected="Application.HandlingDynamicWebTables">
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class08.HW" />
+      <module name="SeleniumBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class3.*" />
+          <option name="PATTERN" value="com.syntax.class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.syntax.class3" />
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class3.GroupsExample" />
-      <option name="METHOD_NAME" value="invalidLogin" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftAssertionModified.logoAndValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <useClassPathOnly />
+    <configuration name="HandlingDynamicWebTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class08.HandlingDynamicWebTables" />
+      <module name="SeleniumBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class3.*" />
+          <option name="PATTERN" value="com.syntax.class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.syntax.class3" />
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class3.SoftAssertionModified" />
-      <option name="METHOD_NAME" value="logoAndValidLogin" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/testng.xml" />
-      <item itemvalue="TestNG.GroupsExample.invalidLogin" />
-      <item itemvalue="TestNG.SoftAssertionModified.logoAndValidLogin" />
-      <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/Regression.xml" />
-      <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/Smoke.xml" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/Smoke.xml" />
-        <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/Regression.xml" />
-        <item itemvalue="TestNG.SoftAssertionModified.logoAndValidLogin" />
-        <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/testng.xml" />
-        <item itemvalue="TestNG.GroupsExample.invalidLogin" />
+        <item itemvalue="Application.HandlingDynamicWebTables" />
+        <item itemvalue="Application.HW" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="141a02d3-1561-49f6-ad2e-8d9fa96e4c1f" name="Default Changelist" comment="" />
-      <created>1608820434793</created>
+      <changelist id="d859661b-49be-4f6a-a5f3-76997432c9c9" name="Default Changelist" comment="" />
+      <created>1608823393531</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608820434793</updated>
-      <workItem from="1608847434367" duration="192000" />
+      <updated>1608823393531</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -673,55 +483,14 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609004924805">
+    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1608848670369">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609004924805" />
-    <state x="2647" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608995934371">
+    <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608848670369" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1608848665523">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2647" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608995934371" />
-    <state x="2609" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609004920545">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2609" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609004920545" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1609004930158">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609004930158" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1609004930158">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609004930158" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1609004930158">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609004930158" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1609004930158">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609004930158" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/syntax/class1/HW.java</url>
-          <line>37</line>
-          <properties class="com.syntax.class1.HW" method="validAdminLogin">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608848665523" />
   </component>
 </project>

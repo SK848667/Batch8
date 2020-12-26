@@ -10,7 +10,7 @@ public class ExceptionHandling {
 
 
         Exception exception =new Exception();
-        String path="C:\\Users\\Asghar Nazir\\IdeaProjects\\JavaBatch8\\src\\com\\syntax\\class37\\Book1.xlsx";
+        String path="C:\\Users\\SK\\IntelliJ\\JavaBatch8\\src\\com\\syntax\\class37\\Book1.xlsx";
         File file=new File(path);
         if(file.exists()){
 

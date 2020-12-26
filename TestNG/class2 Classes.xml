@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Class 2">
+    <test name="Class 2">
+        <classes>
+            <class name="com.syntax.class1.LoginTest"></class>
+            <class name="com.syntax.class1.TestNGIntro"></class>
+            <class name="com.syntax.class1.PreAndPostConditionAnnotation"></class>
+        </classes>
+    </test>
+</suite>

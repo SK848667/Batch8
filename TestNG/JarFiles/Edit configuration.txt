@@ -1,0 +1,6 @@
+VM options:
+
+-ea -Dtestng.dtd.http=true
+
+
+need instal from plugin testNG.xml

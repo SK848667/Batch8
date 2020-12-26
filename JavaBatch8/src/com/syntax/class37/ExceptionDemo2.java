@@ -21,7 +21,7 @@ public class ExceptionDemo2 {
 
     public static void handlFille(
     )  {
-        String dataFile = "C:\\Users\\Asghar Nazir\\IdeaProjects\\JavaBatch8\\src\\com\\syntax\\class37\\TestData.xlsx";
+        String dataFile = "C:\\Users\\SK\\IntelliJ\\JavaBatch8\\src\\com\\syntax\\class37\\TestData.xlsx";
         FileInputStream fileInputStream = null;
         try {
             fileInputStream = new FileInputStream(dataFile);

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Redression Suite">
+
+
+    <test name="Login test">
+        <packages>
+            <package name="com.syntax.class3"></package>
+        </packages>
+    </test>
+
+    <test name="Directory Test">
+        <packages>
+        <package name="com.syntax.class3"></package>
+        </packages>
+    </test>
+
+
+
+
+</suite>

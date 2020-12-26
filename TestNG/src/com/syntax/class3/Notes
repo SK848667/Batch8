@@ -1,0 +1,31 @@
+
+tesNG.xml file is a configuration file where we can specify which classes, methods, groups etc to run
+
+<suite name ="Any Name">
+    <test name = "Any Name">
+        <packages>
+            <classes>
+                <class name ="com.systax.class2.HW">
+                    <methods>
+                        <include name="logoValidation"/>
+                    </methods>
+                </class>
+            </classes>
+        </packages>
+    </test>
+</suite>
+
+---------------------------------------------------------------
+Assertions
+Hard if asserting fails--> execution stop right away (Assert Class)
+Soft cellects all failures and then at the we need to call assrtAll() (SoftAssert)
+
+@Test (dependsOnMethod="turnOn")
+public void turnOff(){
+.......
+}
+
+@Test
+public void turnOn(){
+.......
+}

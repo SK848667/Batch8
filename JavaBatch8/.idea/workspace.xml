@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5327c6-6ae6-4a12-b514-88f2d791c089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/BaseEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/Driveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/EmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/SoundAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass16/SoundAnimalTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/HW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/HW/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG/out/production/TestNG/com/syntax/class4/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG/out/production/TestNG/com/syntax/class4/RecapHW.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/out/production/TestNG/com/syntax/class4/RecapHW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG/src/com/syntax/class4/RecapHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/com/syntax/class4/RecapHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/SeleniumBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/SeleniumBatch8.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,22 +157,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609206772440" />
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1609196558836">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1609287593030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609196558836" />
-    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1609196558836">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1609287593030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609196558836" />
-    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1609196558836">
+    <state width="1860" height="279" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1609287593030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609196558836" />
-    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1609196558836">
+    <state width="1860" height="279" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1609287593030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609196558836" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
     <state x="660" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1609171079716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

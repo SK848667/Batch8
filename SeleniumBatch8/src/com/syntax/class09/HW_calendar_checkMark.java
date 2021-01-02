@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 
-public class HW extends CommonMethods {
+public class HW_calendar_checkMark extends CommonMethods {
     public static void main(String[] args) throws InterruptedException {
         setUp();
         WebElement username = driver.findElement(By.xpath("//input[@id = 'txtUsername']"));

@@ -11,7 +11,7 @@ public class CalendarHandling {
     public static String url = "https://www.delta.com/";
 
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.navigate().to(url);
 

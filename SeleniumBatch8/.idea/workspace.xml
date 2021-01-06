@@ -20,19 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d859661b-49be-4f6a-a5f3-76997432c9c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JarFiles/commons-io-2.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/HRMS/adminLogin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/CalendarHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/ClassNotes10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/DragAndDropDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/TakingScreenshots2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/WorkingWithKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/HW/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/ApplicationsOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/CollectionsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/CollectionsDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/ListsAndSetsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/MapsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/MapsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass17/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/ClassNotes11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/DoubleClickActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/JS_ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/JS_ExecutorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/JS_ExecutorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/RightClickActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/TestFile.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/HW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/HW/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumBatch8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class09/HW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class09/HW_calendar_checkMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/CalendarHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/CalendarHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/DragAndDropDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/DragAndDropDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/HW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/WorkingWithKeys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/WorkingWithKeys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/CalendarHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class10/CalendarHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/DragAndDropDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class10/DragAndDropDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class10/HW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/TakingScreenshots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/WorkingWithKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class10/WorkingWithKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +82,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JarFiles/commons-io-2.8.0.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaBatch8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.DragAndDropDemo">
+  <component name="RunManager" selected="Application.JS_ExecutorDemo">
     <configuration name="CalendarHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class10.CalendarHandling" />
       <module name="SeleniumBatch8" />
@@ -82,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DragAndDropDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class10.DragAndDropDemo" />
+    <configuration name="DoubleClickActions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.DoubleClickActions" />
       <module name="SeleniumBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class10.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakingScreenshots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class10.TakingScreenshots" />
+    <configuration name="JS_ExecutorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.JS_ExecutorDemo" />
       <module name="SeleniumBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class10.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakingScreenshots2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class10.TakingScreenshots2" />
+    <configuration name="RightAndDoubleClickActions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.RightAndDoubleClickActions" />
       <module name="SeleniumBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class10.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class10.WorkingWithKeys" />
+    <configuration name="RightClickActions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.RightClickActions" />
       <module name="SeleniumBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class10.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,10 +156,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DragAndDropDemo" />
-        <item itemvalue="Application.WorkingWithKeys" />
-        <item itemvalue="Application.TakingScreenshots2" />
-        <item itemvalue="Application.TakingScreenshots" />
+        <item itemvalue="Application.JS_ExecutorDemo" />
+        <item itemvalue="Application.RightClickActions" />
+        <item itemvalue="Application.DoubleClickActions" />
+        <item itemvalue="Application.RightAndDoubleClickActions" />
         <item itemvalue="Application.CalendarHandling" />
       </list>
     </recent_temporary>
@@ -175,51 +195,69 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2632" y="343" key="#Notifications/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609362802135" />
-    <state x="2630" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609373578288">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609896512329">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609896512329" />
     <state x="2630" y="321" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609373578288" />
-    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1609378401206">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1609893044190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609893044190" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1609801809282">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608848670369" />
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609286986656" />
     <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609378401205" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609601957076">
+    <state x="740" y="274" key="FileChooserDialogImpl/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801809282" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1609971413841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413841" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254740" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609601957076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1609601957076">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531448" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1609971413841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413841" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254739" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609601957076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1609601957076">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531447" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1609971413841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413841" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254739" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609601957076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1609601957076">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531447" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1609971413841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413841" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254740" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609601957076" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1609374968774">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531448" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1609971413842">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413842" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609374968774" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1609374968773">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1609971413842">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413842" />
     <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609374968773" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1609374968772">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1609971413841">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413841" />
     <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609374968772" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1609374968773">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1609971413842">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609971413842" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609374968773" />
     <state x="2360" y="94" key="SettingsEditor" timestamp="1609378403157">
       <screen x="1920" y="0" width="1920" height="1040" />

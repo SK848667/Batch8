@@ -20,14 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5327c6-6ae6-4a12-b514-88f2d791c089" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/HW/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/ApplicationsOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/CollectionsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/CollectionsDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/ListsAndSetsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/SeleniumBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/SeleniumBatch8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/configs/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -45,12 +63,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ExceptionDemo2">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class37.ExceptionDemo" />
       <module name="JavaBatch8" />
@@ -103,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class37.Task2" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.HW.Solution" />
       <module name="JavaBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class37.*" />
+          <option name="PATTERN" value="com.syntax.HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.ExceptionDemo2" />
         <item itemvalue="Application.ExceptionDemo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ExceptionDemo2 (1)" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -157,22 +175,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609206772440" />
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1609287593030">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1033" height="370" key="GridCell.Tab.0.bottom" timestamp="1609814855900">
+      <screen x="3840" y="-680" width="1080" height="1880" />
     </state>
     <state width="1860" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
-    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1609287593030">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1033" height="370" key="GridCell.Tab.0.bottom/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855900" />
+    <state width="1033" height="370" key="GridCell.Tab.0.center" timestamp="1609814855900">
+      <screen x="3840" y="-680" width="1080" height="1880" />
     </state>
     <state width="1860" height="279" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
-    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1609287593030">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1033" height="370" key="GridCell.Tab.0.center/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855900" />
+    <state width="1033" height="370" key="GridCell.Tab.0.left" timestamp="1609814855899">
+      <screen x="3840" y="-680" width="1080" height="1880" />
     </state>
     <state width="1860" height="279" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
-    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1609287593030">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1033" height="370" key="GridCell.Tab.0.left/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855899" />
+    <state width="1033" height="370" key="GridCell.Tab.0.right" timestamp="1609814855900">
+      <screen x="3840" y="-680" width="1080" height="1880" />
     </state>
     <state width="1860" height="279" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
+    <state width="1033" height="370" key="GridCell.Tab.0.right/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855900" />
     <state x="660" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1609171079716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

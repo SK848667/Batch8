@@ -25,7 +25,7 @@ public class TakingScreenshots extends CommonMethods {
         TakesScreenshot ts = (TakesScreenshot) driver;
         File sourceFile = ts.getScreenshotAs(OutputType.FILE);
         try {
-            FileUtils.copyFile(sourceFile, new File("screenshot/HRMS/adminLogin.png"));
+            FileUtils.copyFile(sourceFile, new File("screenshots/HRMS/adminLogin.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }

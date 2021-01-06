@@ -20,20 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5327c6-6ae6-4a12-b514-88f2d791c089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/HW/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/ApplicationsOfSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/CollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/CollectionsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/CollectionsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/ListsAndSetsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass17/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_HighlightElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_ScrollPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_HighlightElement2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBatch8/com/syntax/HW/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/configs/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_HighlightElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_ScrollPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_OpenSecondTab.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

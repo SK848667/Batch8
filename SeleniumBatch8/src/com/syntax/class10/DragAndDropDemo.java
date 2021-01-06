@@ -17,5 +17,9 @@ public class DragAndDropDemo {
         Actions action = new Actions(driver);
         //action.dragAndDrop(draggable, droppable).perform();
         action.clickAndHold(draggable).moveToElement(droppable).release().build().perform();
+
+        //build when more than one action in a row
+        driver.navigate().refresh();
+        //driver.quit();
     }
 }

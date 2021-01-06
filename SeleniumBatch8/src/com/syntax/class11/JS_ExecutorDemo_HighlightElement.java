@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 
-public class JS_ExecutorDemo extends CommonMethods {
+public class JS_ExecutorDemo_HighlightElement extends CommonMethods {
     public static void main(String[] args) throws InterruptedException {
         setUp();
 

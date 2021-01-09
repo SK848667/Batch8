@@ -1,7 +1,6 @@
 package com.syntax.class4;
 
 import org.testng.ITestListener;
-import org.testng.ITestNGListener;
 import org.testng.ITestResult;
 
 public class Listeners implements ITestListener {

@@ -22,14 +22,15 @@ public class TakingScreenshots extends CommonMethods {
 
 
 
-        TakesScreenshot ts = (TakesScreenshot) driver;
+        /*TakesScreenshot ts = (TakesScreenshot) driver;
         File sourceFile = ts.getScreenshotAs(OutputType.FILE);
         try {
             FileUtils.copyFile(sourceFile, new File("screenshots/HRMS/adminLogin.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
-
+*/
+        File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE); File dest= new File("filPath/screenshot_"+".jpeg"); FileUtils.copyFile(screenshot, dest);
 
     }
 }

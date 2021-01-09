@@ -20,28 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5327c6-6ae6-4a12-b514-88f2d791c089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_HighlightElement2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_OpenSecondTab.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/pages/DashboardPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/pages/LoginPageWithPageFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/test/LoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/test/LoginTestWithPageFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/testbase/BaseClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/pages/LoginPageWithPageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/test/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/test/LoginTestWithPageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/testbase/BaseClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class31/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class31/Notes_WrapperClasses_Iterator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/DragAndDropDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/DragAndDropDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/utils/CommonMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/utils/CommonMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -20,15 +20,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d859661b-49be-4f6a-a5f3-76997432c9c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review04/CalenderHandlingRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review04/HandleMultipleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review04/HandleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/review04/TableHandlingRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/ExcelFilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/MapsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/PropertiesFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/Regression .xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/Smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/addEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/add6Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/ExcelReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/hrmsData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/hrmsData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass17/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass17/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class31/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/ApplicationsOfSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/ListsAndSetsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/Person.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/TakingScreenshots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class00review/review04/CalenderHandlingRecap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class00review/review04/CalenderHandlingRecap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/class3 Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/class3 Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/Constants.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +98,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNGFramework" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.CalenderHandlingRecap">
+  <component name="RunManager" selected="Application.HW">
     <configuration name="CalenderHandlingRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class00review.review04.CalenderHandlingRecap" />
       <module name="SeleniumBatch8" />
@@ -78,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlingDynamicWebTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class08.HandlingDynamicWebTables" />
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.HW" />
       <module name="SeleniumBatch8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class08.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW" />
         <item itemvalue="Application.CalenderHandlingRecap" />
         <item itemvalue="Application.TableHandlingRecap" />
         <item itemvalue="Application.TakingScreenshots" />
         <item itemvalue="Application.HandlingStaticWebTables" />
-        <item itemvalue="Application.HandlingDynamicWebTables" />
       </list>
     </recent_temporary>
   </component>
@@ -180,43 +220,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609893044190" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610205200271">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610495807952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608848670369" />
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610205200271" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610495807952" />
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609286986656" />
     <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609378401205" />
     <state x="740" y="274" key="FileChooserDialogImpl/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801809282" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610205203025">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1610495498735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609988752104" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610205203025" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610495498735" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254740" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531448" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1610205203025">
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1610495498734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609988752104" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610205203025" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610495498734" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254739" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531447" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1610205203025">
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1610495498734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609988752104" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610205203025" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610495498734" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254739" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531447" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1610205203025">
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1610495498734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609988752104" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610205203025" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610495498734" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609380254740" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801531448" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-840.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609602243811" />
@@ -246,10 +286,10 @@
     <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608848665523" />
     <state x="440" y="94" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609286989974" />
     <state x="2360" y="94" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609378403157" />
-    <state x="666" y="119" width="587" height="801" key="find.popup" timestamp="1610039329214">
+    <state x="666" y="119" width="587" height="801" key="find.popup" timestamp="1610293989480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="119" width="587" height="801" key="find.popup/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610039329214" />
+    <state x="666" y="119" width="587" height="801" key="find.popup/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610293989480" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1610131869694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

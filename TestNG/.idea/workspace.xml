@@ -20,35 +20,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="141a02d3-1561-49f6-ad2e-8d9fa96e4c1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/CalenderHandlingRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/HandleMultipleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/HandleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/TableHandlingRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/TestNGFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/ConfigsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/configs/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/configs/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/ExcelFilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/MapsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/PropertiesFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/Regression .xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/Smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/AddEmployeePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/EmployeeListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/PersonalDetailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/ExcelReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/hrmsData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/hrmsData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass17/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass17/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class31/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/ApplicationsOfSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/ListsAndSetsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/Person.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review04/CalenderHandlingRecap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review04/CalenderHandlingRecap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParallelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParallelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestNG/com/syntax/class2/SoftAssertionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestNG/com/syntax/class2/SoftAssertionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestNG/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestNG/configs/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class1/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class1/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class2/SoftAssertionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class2/SoftAssertionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class4/Listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class4/Listeners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class3 Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class3 Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/ConfigsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/ConfigsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/ConfigsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/ConfigsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/configs/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +122,7 @@
       <recent name="com.syntax.class03" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/SK/IntelliJ/TestNG/Listener.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/SK/IntelliJ/TestNG/class3 Packages.xml">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -143,6 +174,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/SK/IntelliJ/TestNG/class3 Packages.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/class3 Packages.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTestEnhanced.validAdminLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <useClassPathOnly />
@@ -158,33 +209,6 @@
       <option name="METHOD_NAME" value="validAdminLogin" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SoftAssertionDemo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.syntax.class2" />
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class2.SoftAssertionDemo" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -245,19 +269,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.SoftAssertionDemo" />
-      <item itemvalue="TestNG.SoftAssertionModified" />
-      <item itemvalue="TestNG.LoginTestEnhanced.validAdminLogin" />
-      <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/ParallelTest.xml" />
       <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/Listener.xml" />
+      <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/ParallelTest.xml" />
+      <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/class3 Packages.xml" />
+      <item itemvalue="TestNG.LoginTestEnhanced.validAdminLogin" />
+      <item itemvalue="TestNG.SoftAssertionModified" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/class3 Packages.xml" />
         <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/Listener.xml" />
         <item itemvalue="TestNG.C:/Users/SK/IntelliJ/TestNG/ParallelTest.xml" />
         <item itemvalue="TestNG.LoginTestEnhanced.validAdminLogin" />
         <item itemvalue="TestNG.SoftAssertionModified" />
-        <item itemvalue="TestNG.SoftAssertionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -314,29 +338,29 @@
     <state x="2586" y="261" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609010290272" />
     <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610208356211" />
     <state x="666" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609207018856" />
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1610216702130">
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1610221104170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609011912930" />
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610216702130" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610221104170" />
     <state width="1860" height="268" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609207020579" />
-    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1610216702129">
+    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1610221104170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609011912930" />
-    <state width="1877" height="270" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610216702129" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610221104170" />
     <state width="1860" height="268" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609207020579" />
-    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1610216702129">
+    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1610221104170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609011912930" />
-    <state width="1877" height="270" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610216702129" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610221104170" />
     <state width="1860" height="268" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609207020579" />
-    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1610216702130">
+    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1610221104170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609011912930" />
-    <state width="1877" height="270" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610216702130" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610221104170" />
     <state width="1860" height="268" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609207020579" />
     <state x="2360" y="94" key="SettingsEditor" timestamp="1609010293476">
       <screen x="1920" y="0" width="1920" height="1040" />

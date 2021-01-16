@@ -23,37 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53b94d5-63dc-42eb-9cda-4c610096f674" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberFrameworkBatch8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/stepdefinitions/LoginStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/PageInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/ConfigsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configs/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/pages/DashboardPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/stepdefinitions/LoginStepDefinition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/BaseClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/PageInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/utils/CommonMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/utils/ConfigsReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/utils/Constants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/configs/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/testcases/AddEmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/testcases/AddEmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/stepdefinitions/LoginStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/stepdefinitions/LoginStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +58,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -167,6 +141,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="455" y="102" key="#Project_Structure" timestamp="1610812956541">
@@ -185,22 +163,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="372" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610820080428" />
-    <state width="1860" height="317" key="GridCell.Tab.0.bottom" timestamp="1610823489053">
+    <state width="1860" height="317" key="GridCell.Tab.0.bottom" timestamp="1610827875482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610823489053" />
-    <state width="1860" height="317" key="GridCell.Tab.0.center" timestamp="1610823489052">
+    <state width="1860" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610827875482" />
+    <state width="1860" height="317" key="GridCell.Tab.0.center" timestamp="1610827875482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="317" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610823489052" />
-    <state width="1860" height="317" key="GridCell.Tab.0.left" timestamp="1610823489052">
+    <state width="1860" height="317" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610827875482" />
+    <state width="1860" height="317" key="GridCell.Tab.0.left" timestamp="1610827875482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="317" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610823489052" />
-    <state width="1860" height="317" key="GridCell.Tab.0.right" timestamp="1610823489052">
+    <state width="1860" height="317" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610827875482" />
+    <state width="1860" height="317" key="GridCell.Tab.0.right" timestamp="1610827875482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="317" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610823489052" />
+    <state width="1860" height="317" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610827875482" />
     <state x="476" y="172" key="SettingsEditor" timestamp="1610817555968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

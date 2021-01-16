@@ -43,4 +43,28 @@ public class LoginStepDefinition extends CommonMethods {
         Assert.assertEquals("Verifying error message", "Invalid credentials", loginPage.getErrorMessageText());
     }
 
+    //HW------------------------------------------------------------------
+    @When("leave the username empty and enter password")
+    public void leave_the_user_name_empty_and_enter_password() {
+        loginPage.login("", "Hum@nhrm123");
+    }
+
+    @Then("verify user cannot be empty message")
+    public void verify_user_cannot_be_empty_message() {
+        Assert.assertEquals("Verifying user cannot be empty message", "Username cannot be empty", loginPage.getErrorMessageText());
+    }
+
+    @When("entering username and leaving password empty")
+    public void entering_username_and_leaving_password_empty() {
+        loginPage.login("Admin", "");
+
+    }
+
+    @Then("verify password cannot be empty message")
+    public void verify_password_cannot_be_empty_message() {
+        Assert.assertEquals("Verifying password cannot be empty message", "Password cannot be empty", loginPage.getErrorMessageText());
+    }
+//---------------------------------------------------------------------------------------------------
+
+
 }

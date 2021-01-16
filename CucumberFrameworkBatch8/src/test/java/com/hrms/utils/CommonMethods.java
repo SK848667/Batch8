@@ -1,8 +1,12 @@
 package com.hrms.utils;
 
-
+import com.hrms.testbase.BaseClass;
+import com.hrms.testbase.PageInitializer;
 import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.*;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -11,9 +15,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class CommonMethods {
-
-    public static WebDriver driver;
+public class CommonMethods extends PageInitializer{
 
     /**
      * this method will clear a textbox and send text to it
@@ -24,6 +26,7 @@ public class CommonMethods {
         element.clear();
         element.sendKeys(textToSend);
     }
+
     /**
      * this method will return an object of Explicit wait with time set to 20 sec
      * @return WebDriverWait
@@ -32,6 +35,7 @@ public class CommonMethods {
         WebDriverWait wait=new WebDriverWait(driver, Constants.EXPLICIT_WAIT);
         return wait;
     }
+
     /**
      * this method will wait until given element becomes clickable
      * @param element
@@ -39,6 +43,7 @@ public class CommonMethods {
     public static void waitForClickability(WebElement element){
         getWait().until(ExpectedConditions.elementToBeClickable(element));
     }
+
     /**
      * this method will wait till and then click
      */
@@ -46,6 +51,7 @@ public class CommonMethods {
         waitForClickability(element);
         element.click();
     }
+
     /**
      * this method will return an Object of JavascriptExecutor
      * @return JavascriptExecutor
@@ -54,6 +60,7 @@ public class CommonMethods {
         JavascriptExecutor js=(JavascriptExecutor)driver;
         return js;
     }
+
     /**
      * this method will click using JavascriptExecutor
      * @param element
@@ -61,6 +68,7 @@ public class CommonMethods {
     public static void jsClick(WebElement element){
         getJSExecutor().executeScript("arguments[0].click();", element);
     }
+
     /**
      *
      * @param fileName
@@ -68,12 +76,14 @@ public class CommonMethods {
     public static void takeScreenshot(String fileName){
         TakesScreenshot ts=(TakesScreenshot)driver;
         File sourceFile = ts.getScreenshotAs(OutputType.FILE);
+
         try {
             FileUtils.copyFile(sourceFile, new File(Constants.SCREENSHOT_FILEPATH + fileName + getTimeStamp("yyyy-MM-dd-HH-mm-ss")+".png"));
         }catch (IOException e){
             e.printStackTrace();
         }
     }
+
     /**
      *
      * @param pattern

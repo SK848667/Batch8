@@ -20,55 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d859661b-49be-4f6a-a5f3-76997432c9c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/ExcelFilesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/MapsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/PropertiesFileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBatch8/src/com/syntax/class00review/reviewclass20/Test.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/Regression .xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/Smoke.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/pages/addEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/add6Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/ExcelReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/hrmsData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/resources/testdata/photo/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/hrmsData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/testdata/photo/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass17/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass17/Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class31/Notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/ApplicationsOfSets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/CollectionsDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/ListsAndSetsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/reviewclass17/Person.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberFrameworkBatch8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class00review/review04/CalenderHandlingRecap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch8/com/syntax/class00review/review04/CalenderHandlingRecap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG/class3 Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/class3 Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/utils/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/CommonMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/utils/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/testcases/AddEmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGFramework/target/test-classes/com/hrms/testcases/AddEmployeeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,11 +176,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1536.824/3840.-680.1080.1880@0.0.1920.1040" timestamp="1609893044190" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610495807952">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610812727039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608848670369" />
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610495807952" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610812727039" />
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609286986656" />
     <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609378401205" />
     <state x="740" y="274" key="FileChooserDialogImpl/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609801809282" />
@@ -290,6 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="119" width="587" height="801" key="find.popup/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610293989480" />
+    <state x="357" y="148" key="new project wizard" timestamp="1610812513292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="357" y="148" key="new project wizard/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610812513292" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1610131869694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,5 +1,8 @@
+@featureTag @login #feature level tag
 Feature: Login Functionality
 
+
+  @validCreds #scenario level tag
   Scenario: Login with valid credentials
     Given navigate to HRMS login page
     When enter valid credentials
@@ -7,6 +10,7 @@ Feature: Login Functionality
     Then verify dashboard is displayed
     And quit the browser
 
+  @smoke @syntax @invalidCreds @regression @anyTag #adding multiple scenario level tags
   Scenario: Login with invalid credentials
     Given navigate to HRMS login page
     When enter invalid credentials
@@ -14,12 +18,10 @@ Feature: Login Functionality
     Then verify error message
     And quit the browser
 
-
-
-
+#HW----------------------------------------------
   Scenario: Login with empty userName
     Given navigate to HRMS login page
-    When leave the userName empty and enter password
+    When leave the username empty and enter password
     And  click on login button
     Then verify user cannot be empty message
     And quit the browser
@@ -30,4 +32,5 @@ Feature: Login Functionality
     And  click on login button
     Then verify password cannot be empty message
     And quit the browser
+#-------------------------------------------------
 

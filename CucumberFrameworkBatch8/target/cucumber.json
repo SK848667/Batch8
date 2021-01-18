@@ -1,0 +1,124 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-01-17T18:11:37.447Z",
+        "line": 14,
+        "name": "Login with invalid credentials",
+        "description": "",
+        "id": "login-functionality;login-with-invalid-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5879000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "navigate to HRMS login page",
+            "match": {
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.navigate_to_hrms_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 548000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "enter invalid credentials",
+            "match": {
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.enter_invalid_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 719000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "click on login button",
+            "match": {
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 52000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verify error message",
+            "match": {
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.verify_error_message()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1018000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "quit the browser",
+            "match": {
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.quit_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@featureTag"
+          },
+          {
+            "name": "@login"
+          },
+          {
+            "name": "@smoke"
+          },
+          {
+            "name": "@syntax"
+          },
+          {
+            "name": "@invalidCreds"
+          },
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@anyTag"
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionality",
+    "description": "",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/login.feature",
+    "tags": [
+      {
+        "name": "@featureTag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@login",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 13
+        }
+      }
+    ]
+  }
+]

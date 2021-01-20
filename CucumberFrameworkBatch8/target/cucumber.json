@@ -1,22 +1,20 @@
 [
   {
-    "line": 2,
+    "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-01-17T18:11:37.447Z",
-        "line": 14,
-        "name": "Login with invalid credentials",
+        "line": 4,
+        "name": "",
         "description": "",
-        "id": "login-functionality;login-with-invalid-credentials",
-        "type": "scenario",
-        "keyword": "Scenario",
+        "type": "background",
+        "keyword": "Background",
         "steps": [
           {
             "result": {
-              "duration": 5879000000,
+              "duration": 2000000,
               "status": "passed"
             },
-            "line": 15,
+            "line": 5,
             "name": "navigate to HRMS login page",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.navigate_to_hrms_login_page()"
@@ -25,22 +23,20 @@
           },
           {
             "result": {
-              "duration": 548000000,
               "status": "passed"
             },
-            "line": 16,
-            "name": "enter invalid credentials",
+            "line": 6,
+            "name": "enter valid credentials",
             "match": {
-              "location": "com.hrms.stepdefinitions.LoginStepDefinition.enter_invalid_credentials()"
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.enter_valid_credentials()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 719000000,
               "status": "passed"
             },
-            "line": 17,
+            "line": 7,
             "name": "click on login button",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.click_on_login_button()"
@@ -49,76 +45,97 @@
           },
           {
             "result": {
-              "duration": 52000000,
               "status": "passed"
             },
-            "line": 18,
-            "name": "verify error message",
+            "line": 8,
+            "name": "verify dashboard is displayed",
             "match": {
-              "location": "com.hrms.stepdefinitions.LoginStepDefinition.verify_error_message()"
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.verify_dashboard_is_displayed()"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 1018000000,
               "status": "passed"
             },
-            "line": 19,
-            "name": "quit the browser",
+            "line": 9,
+            "name": "click on PIM",
             "match": {
-              "location": "com.hrms.stepdefinitions.LoginStepDefinition.quit_the_browser()"
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_pim()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "click on add employee button",
+            "match": {
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_add_employee_button()"
             },
             "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-01-20T01:13:47.559Z",
+        "line": 14,
+        "name": "Add employee without login details",
+        "description": "",
+        "id": "add-employee-functionality;add-employee-without-login-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "enter first and last name",
+            "match": {
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.enter_first_and_last_name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "click on save button",
+            "match": {
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_save_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "verify employee is added successfully",
+            "match": {
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.verify_employee_is_added_successfully()"
+            },
+            "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@featureTag"
-          },
-          {
-            "name": "@login"
-          },
-          {
-            "name": "@smoke"
-          },
-          {
-            "name": "@syntax"
-          },
-          {
-            "name": "@invalidCreds"
-          },
-          {
-            "name": "@regression"
-          },
-          {
-            "name": "@anyTag"
+            "name": "@addEmployeeWithoutLogin"
           }
         ]
       }
     ],
-    "name": "Login Functionality",
+    "name": "Add Employee Functionality",
     "description": "",
-    "id": "login-functionality",
+    "id": "add-employee-functionality",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/login.feature",
-    "tags": [
-      {
-        "name": "@featureTag",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 1
-        }
-      },
-      {
-        "name": "@login",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 13
-        }
-      }
-    ]
+    "uri": "file:src/test/resources/features/addEmployee.feature",
+    "tags": []
   }
 ]

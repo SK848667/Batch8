@@ -7,13 +7,11 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-                    features = "src/test/resources/features/login.feature",//need to give a path for out features file
+                    features = "src/test/resources/features/",//need to give a path for out features file
                     glue = "com/hrms/stepdefinitions",//we need tu glue out step definition-implementation
-                    dryRun = false, //when set as true,will run over the feature steps a reveal unimplemented
+                    dryRun = true, //!!!!!!!!!!!!!!//when set as true,will run over the feature steps a reveal unimplemented
         // (login.features yellow highlighted) dry run looks ahead  --finds unimplemented--->does not run at all
-                    tags = "@invalidCreds", //adding tag ,for multiple use: tags= {"smoke","@whatever"}
-                    //strict = true, //when set as true,will fail the execution when undefined step is
-        // strict - runs-->finds unimplemented methods -->fails  @CucumberOptions(strict=false) is no longer supported. Please use strict=true
+                    tags = "@addEmployeeWithoutLogin", //adding tag ,for multiple use: tags= {"smoke","@whatever"}
                     plugin = {"pretty", // print executed steps inside of your console
                             "html:target/cucumber-default-reports.html", //inside of target folder add cucumber-default-reports folder
                             // generate default html report

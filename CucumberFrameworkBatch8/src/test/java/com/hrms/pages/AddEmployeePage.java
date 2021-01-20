@@ -24,7 +24,7 @@ public class AddEmployeePage extends CommonMethods {
     @FindBy(id = "chkLogin")
     public WebElement createLoginCheckbox;
 
-    @FindBy (id = "photofile")
+    @FindBy (id = "photoFile")
     public WebElement photograph;
 
     @FindBy (id = "chkLogin")
@@ -44,11 +44,16 @@ public class AddEmployeePage extends CommonMethods {
         sendText(lastNameTextbox, lastName);
     }
 
-    public void clickOnSaveBtn(){
-
+    public void enterFirstMiddleAndLastName(String firstName,String middleName, String lastName) {
+        sendText(firstNameTextBox, firstName);
+        sendText(middleNameTextbox, middleName);
+        sendText(lastNameTextbox, lastName);
     }
+        public void clickOnSaveBtn () {
+            jsClick(saveButton);
+        }
 
     public AddEmployeePage() {
-        PageFactory.initElements(driver, this);
+            PageFactory.initElements(driver, this);
+        }
     }
-}

@@ -3,15 +3,17 @@
     "line": 1,
     "elements": [
       {
+        "start_timestamp": "2021-01-20T03:15:46.291Z",
         "line": 4,
-        "name": "",
+        "name": "Dashboard Tab verification",
         "description": "",
-        "type": "background",
-        "keyword": "Background",
+        "id": "dashboard-tab-functionality;dashboard-tab-verification",
+        "type": "scenario",
+        "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 2000000,
+              "duration": 5894000000,
               "status": "passed"
             },
             "line": 5,
@@ -23,6 +25,7 @@
           },
           {
             "result": {
+              "duration": 481000000,
               "status": "passed"
             },
             "line": 6,
@@ -34,6 +37,7 @@
           },
           {
             "result": {
+              "duration": 1533000000,
               "status": "passed"
             },
             "line": 7,
@@ -45,6 +49,7 @@
           },
           {
             "result": {
+              "duration": 69000000,
               "status": "passed"
             },
             "line": 8,
@@ -56,86 +61,44 @@
           },
           {
             "result": {
-              "status": "passed"
+              "error_message": "java.lang.AssertionError: Verifying dashboard tabs expected:\u003c[Admin, PIM, Leave, Time, Recruitment, Performance, Dashboard, Directory]\u003e but was:\u003c[]\u003e\r\n\tat org.junit.Assert.fail(Assert.java:89)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:835)\r\n\tat org.junit.Assert.assertEquals(Assert.java:120)\r\n\tat com.hrms.stepdefinitions.DashboardStepDefinition.verify_the_following_tabs_on_dashboard(DashboardStepDefinition.java:20)\r\n\tat ✽.verify the following tabs on dashboard(file:///C:/Users/SK/IntelliJ/CucumberFrameworkBatch8/src/test/resources/features/dashboard.feature:9)\r\n",
+              "duration": 10038000000,
+              "status": "failed"
             },
             "line": 9,
-            "name": "click on PIM",
+            "name": "verify the following tabs on dashboard",
             "match": {
-              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_pim()"
+              "location": "com.hrms.stepdefinitions.DashboardStepDefinition.verify_the_following_tabs_on_dashboard(io.cucumber.datatable.DataTable)"
             },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "click on add employee button",
-            "match": {
-              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_add_employee_button()"
-            },
-            "keyword": "And "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2021-01-20T01:13:47.559Z",
-        "line": 14,
-        "name": "Add employee without login details",
-        "description": "",
-        "id": "add-employee-functionality;add-employee-without-login-details",
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 1000000,
-              "status": "passed"
-            },
-            "line": 15,
-            "name": "enter first and last name",
-            "match": {
-              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.enter_first_and_last_name()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1000000,
-              "status": "passed"
-            },
-            "line": 16,
-            "name": "click on save button",
-            "match": {
-              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_save_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 1000000,
-              "status": "passed"
-            },
-            "line": 17,
-            "name": "verify employee is added successfully",
-            "match": {
-              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.verify_employee_is_added_successfully()"
-            },
+            "rows": [
+              {
+                "cells": [
+                  "Admin",
+                  "PIM",
+                  "Leave",
+                  "Time",
+                  "Recruitment",
+                  "Performance",
+                  "Dashboard",
+                  "Directory"
+                ]
+              }
+            ],
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@addEmployeeWithoutLogin"
+            "name": "@dashboardTabs"
           }
         ]
       }
     ],
-    "name": "Add Employee Functionality",
+    "name": "Dashboard Tab Functionality",
     "description": "",
-    "id": "add-employee-functionality",
+    "id": "dashboard-tab-functionality",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/addEmployee.feature",
+    "uri": "file:src/test/resources/features/dashboard.feature",
     "tags": []
   }
 ]

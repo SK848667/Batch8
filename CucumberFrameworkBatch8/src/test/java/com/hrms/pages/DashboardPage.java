@@ -22,12 +22,12 @@ public class DashboardPage extends CommonMethods {
     @FindBy (id = "menu_pim_viewEmployeeList")
     public WebElement employeeList;
 
-    @FindBy(xpath = "//div[@class = 'name']/ul/li")
-    public List<WebElement> dasTabs;
+    @FindBy(xpath = "//div[@class = 'menu']/ul/li")
+    public List<WebElement> dashTabs;
 
-    public List<String> getDashTabs(){
+    public List<String> getDashTabs() {
         List<String> dashTabsText = new ArrayList<>();
-        for (WebElement dashTab : dasTabs) {
+        for(WebElement dashTab: dashTabs) {
             dashTabsText.add(dashTab.getText());
         }
         return dashTabsText;
@@ -36,7 +36,8 @@ public class DashboardPage extends CommonMethods {
     public void clickOnPIM() {
         jsClick(PIMButton);
     }
-    public void clickOnAddEmployeeBtn(){
+
+    public void clickOnAddEmployeeBtn() {
         jsClick(addEmployeeBtn);
     }
 

@@ -6,8 +6,9 @@ import io.cucumber.java.en.When;
 import org.junit.Assert;
 
 public class AddEmployeeStepDefinition extends CommonMethods {
+
     @When("click on PIM")
-    public void click_on_pim() {
+    public void click_on_PIM() {
         dashboardPage.clickOnPIM();
     }
 
@@ -18,22 +19,21 @@ public class AddEmployeeStepDefinition extends CommonMethods {
 
     @Then("enter first and last name")
     public void enter_first_and_last_name() {
-        addEmployeePage.enterFirstAndLastName("Harry", "Potter");
+        addEmployeePage.enterFirstAndLastName("Thor", "Potter");
     }
-
     @Then("click on save button")
     public void click_on_save_button() {
         addEmployeePage.clickOnSaveBtn();
     }
-
     @Then("verify employee is added successfully")
     public void verify_employee_is_added_successfully() {
         String actualProfileName = personalDetailsPage.getUserProfileName();
-        Assert.assertEquals("Verifying profile name", "Harry Potter", actualProfileName);
+        Assert.assertEquals("Verifying profile name", "Thor Potter", actualProfileName);
     }
 
     @Then("enter first name {string}, middle name {string} and last name {string}")
-    public void enter_first_name_middle_name_and_last_name(String firstName, String middleName, String lastName) {
+    public void enter_first_name_middle_name_and_last_name(String firstName, String middleName,
+                                                           String lastName) {
         addEmployeePage.enterFirstMiddleAndLastName(firstName, middleName, lastName);
     }
 
@@ -45,7 +45,7 @@ public class AddEmployeeStepDefinition extends CommonMethods {
 
     @When("enter {string}, {string} and {string}")
     public void enter_and(String firstName, String middleName, String lastName) {
-        addEmployeePage.enterFirstMiddleAndLastName(firstName,middleName,lastName);
+        addEmployeePage.enterFirstMiddleAndLastName(firstName, middleName, lastName);
     }
 
     @Then("verify {string}, {string} and {string} is added successfully")
@@ -54,7 +54,5 @@ public class AddEmployeeStepDefinition extends CommonMethods {
         String actualProfileName = personalDetailsPage.getUserProfileName();
         Assert.assertEquals("Verifying profile name", fullName, actualProfileName);
     }
-
-
 
 }

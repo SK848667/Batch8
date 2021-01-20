@@ -23,22 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53b94d5-63dc-42eb-9cda-4c610096f674" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/stepdefinitions/DashboardStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/dashboard.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/notes/Class03" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/pages/AddEmployeePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/pages/AddEmployeePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/pages/DashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/runners/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/stepdefinitions/AddEmployeeStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/stepdefinitions/AddEmployeeStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/addEmployee.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/addEmployee.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/FailedTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/FailedTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-default-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/pages/AddEmployeePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/pages/AddEmployeePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/runners/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/runners/TestRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/stepdefinitions/AddEmployeeStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/stepdefinitions/AddEmployeeStepDefinition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/addEmployee.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/addEmployee.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/pages/PersonalDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/pages/PersonalDetailsPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,22 +217,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="372" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610820080428" />
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1611112277969">
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1611112543970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112277969" />
-    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1611112277969">
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112543970" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1611112543970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112277969" />
-    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1611112277969">
+    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112543970" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1611112543970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112277969" />
-    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1611112277969">
+    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112543970" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1611112543970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112277969" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611112543970" />
     <state x="476" y="172" key="SettingsEditor" timestamp="1610817555968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

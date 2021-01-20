@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-01-20T03:15:46.291Z",
+        "start_timestamp": "2021-01-20T03:19:34.788Z",
         "line": 4,
         "name": "Dashboard Tab verification",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5894000000,
+              "duration": 5776000000,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 481000000,
+              "duration": 365000000,
               "status": "passed"
             },
             "line": 6,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 1533000000,
+              "duration": 1642000000,
               "status": "passed"
             },
             "line": 7,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 69000000,
+              "duration": 90000000,
               "status": "passed"
             },
             "line": 8,
@@ -61,9 +61,8 @@
           },
           {
             "result": {
-              "error_message": "java.lang.AssertionError: Verifying dashboard tabs expected:\u003c[Admin, PIM, Leave, Time, Recruitment, Performance, Dashboard, Directory]\u003e but was:\u003c[]\u003e\r\n\tat org.junit.Assert.fail(Assert.java:89)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:835)\r\n\tat org.junit.Assert.assertEquals(Assert.java:120)\r\n\tat com.hrms.stepdefinitions.DashboardStepDefinition.verify_the_following_tabs_on_dashboard(DashboardStepDefinition.java:20)\r\n\tat ✽.verify the following tabs on dashboard(file:///C:/Users/SK/IntelliJ/CucumberFrameworkBatch8/src/test/resources/features/dashboard.feature:9)\r\n",
-              "duration": 10038000000,
-              "status": "failed"
+              "duration": 584000000,
+              "status": "passed"
             },
             "line": 9,
             "name": "verify the following tabs on dashboard",

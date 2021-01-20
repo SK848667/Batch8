@@ -18,8 +18,5 @@ public class DashboardStepDefinition extends CommonMethods {
         System.out.println(actualDashTabs);
 
         Assert.assertEquals("Verifying dashboard tabs", expectedDashTabs, actualDashTabs);
-
     }
-
-
 }

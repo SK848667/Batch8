@@ -13,6 +13,8 @@ public class EmployeeListPage extends CommonMethods {
     @FindBy(id = "searchBtn")
     public WebElement searchBtn;
 
+
+
     public EmployeeListPage() {
         PageFactory.initElements(driver, this);
     }

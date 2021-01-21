@@ -28,14 +28,25 @@ Feature: Add Employee Functionality
     Then enter first name "Marta", middle name "Mary" and last name "Ostash"
     And click on save button
     Then verify that "Marta Mary Ostash" is added successfully
+
   @examples
-    Scenario Outline: Adding multiple employees without login details
-      When enter "<FirstName>", "<MiddleName>" and "<LastName>"
-      Then verify "<FirstName>", "<MiddleName>" and "<LastName>" is added successfully
+  Scenario Outline: Adding multiple employees without login details
+    When enter "<FirstName>", "<MiddleName>" and "<LastName>"
+    Then verify "<FirstName>", "<MiddleName>" and "<LastName>" is added successfully
 
-      Examples:
-      |FirstName|MiddleName|LastName|
-      |Mark     |J         |Smith   |
-      |John     |K         |Wick    |
+    Examples:
+      | FirstName | MiddleName | LastName |
+      | Mark      | J          | Smith    |
+      | John      | K          | Wick     |
 
 
+  @dtWithHeader
+  Scenario: Adding multiple employees at one execution
+    When add multiple employees and verify they are added successfully
+      | FirstName | MiddleName | LastName | EmployeeId |
+      | Jack      | J          | Toronto  | 132654168  |
+      | David     | K          | Wick     | 564981568  |
+
+    @excelTask
+  Scenario: Adding multiple employees from exel
+    When add multiple employees from exel "AddEmployee" sheet and verify they are added

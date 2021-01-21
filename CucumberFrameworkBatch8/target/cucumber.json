@@ -1,22 +1,22 @@
 [
   {
-    "line": 1,
+    "line": 2,
     "elements": [
       {
-        "start_timestamp": "2021-01-20T03:19:34.788Z",
-        "line": 4,
-        "name": "Dashboard Tab verification",
+        "start_timestamp": "2021-01-21T02:15:00.698Z",
+        "line": 6,
+        "name": "Login with valid credentials",
         "description": "",
-        "id": "dashboard-tab-functionality;dashboard-tab-verification",
+        "id": "login-functionality;login-with-valid-credentials",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 5776000000,
+              "duration": 10024000000,
               "status": "passed"
             },
-            "line": 5,
+            "line": 7,
             "name": "navigate to HRMS login page",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.navigate_to_hrms_login_page()"
@@ -25,10 +25,10 @@
           },
           {
             "result": {
-              "duration": 365000000,
+              "duration": 494000000,
               "status": "passed"
             },
-            "line": 6,
+            "line": 8,
             "name": "enter valid credentials",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.enter_valid_credentials()"
@@ -37,10 +37,10 @@
           },
           {
             "result": {
-              "duration": 1642000000,
+              "duration": 3700000000,
               "status": "passed"
             },
-            "line": 7,
+            "line": 9,
             "name": "click on login button",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.click_on_login_button()"
@@ -49,10 +49,10 @@
           },
           {
             "result": {
-              "duration": 90000000,
+              "duration": 58000000,
               "status": "passed"
             },
-            "line": 8,
+            "line": 10,
             "name": "verify dashboard is displayed",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.verify_dashboard_is_displayed()"
@@ -61,43 +61,52 @@
           },
           {
             "result": {
-              "duration": 584000000,
+              "duration": 936000000,
               "status": "passed"
             },
-            "line": 9,
-            "name": "verify the following tabs on dashboard",
+            "line": 11,
+            "name": "quit the browser",
             "match": {
-              "location": "com.hrms.stepdefinitions.DashboardStepDefinition.verify_the_following_tabs_on_dashboard(io.cucumber.datatable.DataTable)"
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.quit_the_browser()"
             },
-            "rows": [
-              {
-                "cells": [
-                  "Admin",
-                  "PIM",
-                  "Leave",
-                  "Time",
-                  "Recruitment",
-                  "Performance",
-                  "Dashboard",
-                  "Directory"
-                ]
-              }
-            ],
-            "keyword": "Then "
+            "keyword": "And "
           }
         ],
         "tags": [
           {
-            "name": "@dashboardTabs"
+            "name": "@featureTag"
+          },
+          {
+            "name": "@login"
+          },
+          {
+            "name": "@validCreds"
           }
         ]
       }
     ],
-    "name": "Dashboard Tab Functionality",
+    "name": "Login Functionality",
     "description": "",
-    "id": "dashboard-tab-functionality",
+    "id": "login-functionality",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/dashboard.feature",
-    "tags": []
+    "uri": "file:src/test/resources/features/login.feature",
+    "tags": [
+      {
+        "name": "@featureTag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@login",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 13
+        }
+      }
+    ]
   }
 ]

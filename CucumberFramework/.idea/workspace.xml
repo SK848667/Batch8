@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c53b94d5-63dc-42eb-9cda-4c610096f674" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/CucumberReview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/src/test/java/runners/SmokeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/src/test/java/stepdefinitions/GoogleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/src/test/resources/features/gmail.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/src/test/resources/features/search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberReview/target/test-classes/features/search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberFrameworkBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-default-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hrms.runners.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hrms.runners.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.hrms.runners.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.hrms.runners.TestRunner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/JavaBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass20/Test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBatch8/out/production/JavaBatch8/com/syntax/class00review/reviewclass20/Test.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/libraries/JarFiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/client-combined-3.141.59-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/client-combined-3.141.59.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/commons-io-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/libs/byte-buddy-1.8.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/libs/commons-exec-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/libs/guava-25.0-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/libs/okhttp-3.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/JarFiles/libs/okio-1.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/SeleniumBatch8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/configs/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/drivers/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/LinkTextAndPartialLinkText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/NavigateMethodsRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/PageObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/SeleniumConfiduration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/SelenuimRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/TagNameRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/XPathKayak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review01/XpathRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review02/CheckBoxRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review02/CssSelectorRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review02/RadioButtonRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review02/SelectClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review02/XpathRecapContinued.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review04/CalenderHandlingRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review04/HandleMultipleWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review04/HandleWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class00review/review04/TableHandlingRecap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class01/ClassNotes01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class01/LaunchBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class01/NavigateMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class01/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/HW1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/HW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/LocatingElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/Recap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class02/WebOrderTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class03/ClassNotes03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class03/HW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class03/XPathDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClassNote04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ClearCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/CssSelectorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/ElementCommands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class04/GetAllLinksFromEbay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class05/CheckBoxDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class05/ClassNotes05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class05/HandlingAmazonDD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class05/HandlingDDWithIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class05/HandlingDropdowns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class05/HandlingMultiSelectDD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class06/AuthenticationAlert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class06/ClassNotes06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class06/FrameTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class06/HandlingAlerts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class06/HandlingFrames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class07/AdvancedWindowHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class07/ClassNotes07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class07/HW1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class07/HW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class07/ImplicitWaitDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class07/SimpleWindowHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/ClassNotes08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/ExplicitWaitHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/FluentWaitDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/HW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/HandlingDynamicWebTables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/HandlingStaticWebTables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class08/TaskExplicitWait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class09/ClassNotes09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class09/HW_calendar_checkMark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class09/HandlingCalendars1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class09/HandlingPagination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class09/WebTablesWithPagination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/CalendarHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/ClassNotes10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/DragAndDropDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/HW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/TakingScreenshots2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class10/WorkingWithKeys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/ClassNotes11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/DoubleClickActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/FileUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/HW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_HighlightElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_HighlightElement2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_OpenSecondTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/JS_ExecutorDemo_ScrollPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/RightClickActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/class11/TestFile.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/pages/DashboardPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/pages/LoginPageWithPageFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/test/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/test/LoginTestWithPageFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/testbase/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/utils/CommonMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/out/production/SeleniumBatch8/com/syntax/utils/ConfigsReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/screenshots/HRMS/adminLogin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/screenshots/HRMS/dashboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/LinkTextAndPartialLinkText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/NavigateMethodsRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/PageObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/SeleniumConfiduration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/SelenuimRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/TagNameRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/XPathKayak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review01/XpathRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review02/CheckBoxRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review02/CssSelectorRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review02/RadioButtonRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review02/SelectClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review02/XpathRecapContinued.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/CalenderHandlingRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/HandleMultipleWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/HandleWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class00review/review04/TableHandlingRecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class01/ClassNotes01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class01/LaunchBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class01/NavigateMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class01/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class02/HW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class02/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class02/LocatingElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class02/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class02/Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class02/WebOrderTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class03/ClassNotes03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class03/HW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class03/XPathDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClassNote04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ClearCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/CssSelectorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/ElementCommands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class04/GetAllLinksFromEbay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class05/CheckBoxDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class05/ClassNotes05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class05/HandlingAmazonDD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class05/HandlingDDWithIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class05/HandlingDropdowns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class05/HandlingMultiSelectDD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class06/AuthenticationAlert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class06/ClassNotes06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class06/FrameTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class06/HandlingAlerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class06/HandlingFrames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/AdvancedWindowHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/ClassNotes07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/ImplicitWaitDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class07/SimpleWindowHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/ClassNotes08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/ExplicitWaitHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/FluentWaitDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HandlingDynamicWebTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/HandlingStaticWebTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class08/TaskExplicitWait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class09/ClassNotes09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class09/HW_calendar_checkMark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class09/HandlingCalendars1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class09/HandlingPagination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class09/WebTablesWithPagination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/CalendarHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/ClassNotes10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/DragAndDropDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/HW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/TakingScreenshots2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class10/WorkingWithKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/ClassNotes11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/DoubleClickActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/FileUpload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/HW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_HighlightElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_HighlightElement2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_OpenSecondTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/JS_ExecutorDemo_ScrollPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/RightClickActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/class11/TestFile.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/pages/DashboardPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/pages/LoginPageWithPageFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/test/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/test/LoginTestWithPageFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/testbase/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/utils/CommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumBatch8/src/com/syntax/utils/ConfigsReader.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n9qAtrJpaiWOhbiNv8BsTpL59N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNG" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources\testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources" />
+      <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\java\com\hrms\stepdefinitions" />
+      <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources\features" />
+      <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with empty userName" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="com.hrms.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberFramework" />
+      <option name="NAME_FILTER" value="^Login with empty userName$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with empty userName$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with empty userName" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with invalid credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="com.hrms.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberFramework" />
+      <option name="NAME_FILTER" value="^Login with invalid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with invalid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with invalid credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrms.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hrms.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.runners.SmokeTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrms.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hrms.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.SmokeTestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Login with empty userName" />
+        <item itemvalue="Cucumber Java.Feature: login" />
+        <item itemvalue="Cucumber Java.Scenario: Login with invalid credentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c53b94d5-63dc-42eb-9cda-4c610096f674" name="Default Changelist" comment="" />
+      <created>1610812517883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610812517883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="102" key="#Project_Structure" timestamp="1610812956541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="102" key="#Project_Structure/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610812956541" />
+    <state x="429" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610818781210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="429" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610818781210" />
+    <state x="735" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611106021813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611106021813" />
+    <state x="721" y="372" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610820080428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="372" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610820080428" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1611331614113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611331614113" />
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1611331616072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611331616072" />
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1611331616072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611331616072" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1611331616071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611331616071" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1611331616072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611331616072" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
+    <state x="476" y="172" key="SettingsEditor" timestamp="1610817555968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="172" key="SettingsEditor/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610817555968" />
+    <state x="342" y="180" key="new project wizard" timestamp="1611275851118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="180" key="new project wizard/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611275851118" />
+    <state x="638" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1610836354208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610836354208" />
+  </component>
+</project>

@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-01-24T15:21:47.343Z",
+        "start_timestamp": "2021-01-24T16:35:16.674Z",
         "line": 4,
         "name": "Unchecking unnecessary checkboxes",
         "description": "",
@@ -13,20 +13,9 @@
         "steps": [
           {
             "result": {
-              "duration": 6740000000,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "navigate to HRMS login page",
-            "match": {
-              "location": "com.hrms.stepdefinitions.LoginStepDefinition.navigate_to_hrms_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 376000000,
-              "status": "passed"
+              "error_message": "java.lang.NullPointerException\r\n\tat com.hrms.stepdefinitions.LoginStepDefinition.enter_valid_credentials(LoginStepDefinition.java:18)\r\n\tat ✽.enter valid credentials(file:///C:/Users/SK/IntelliJ/CucumberFramework/src/test/resources/features/ConfigurePIM.feature:6)\r\n",
+              "duration": 5000000,
+              "status": "failed"
             },
             "line": 6,
             "name": "enter valid credentials",
@@ -37,8 +26,7 @@
           },
           {
             "result": {
-              "duration": 1530000000,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 7,
             "name": "click on login button",
@@ -49,8 +37,8 @@
           },
           {
             "result": {
-              "duration": 66000000,
-              "status": "passed"
+              "duration": 1000000,
+              "status": "skipped"
             },
             "line": 8,
             "name": "verify dashboard is displayed",
@@ -61,8 +49,7 @@
           },
           {
             "result": {
-              "duration": 4079000000,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 9,
             "name": "click on PIM",
@@ -73,8 +60,7 @@
           },
           {
             "result": {
-              "duration": 72000000,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 10,
             "name": "click on configuration dropdown",
@@ -85,8 +71,7 @@
           },
           {
             "result": {
-              "duration": 443000000,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 11,
             "name": "click on optional fields",
@@ -97,8 +82,7 @@
           },
           {
             "result": {
-              "duration": 58000000,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 12,
             "name": "click on edit button",
@@ -109,8 +93,7 @@
           },
           {
             "result": {
-              "duration": 5348000000,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 13,
             "name": "uncheck unnecessary checkboxes",
@@ -133,8 +116,7 @@
           },
           {
             "result": {
-              "duration": 705000000,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 16,
             "name": "click on save button",

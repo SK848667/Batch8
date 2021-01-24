@@ -2,7 +2,7 @@ Feature: Configure PIM - Optional Fields
 
   @pim
   Scenario: Unchecking unnecessary checkboxes
-    Given navigate to HRMS login page
+    #Given navigate to HRMS login page
     When enter valid credentials
     And click on login button
     Then verify dashboard is displayed

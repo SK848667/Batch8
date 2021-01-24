@@ -23,48 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53b94d5-63dc-42eb-9cda-4c610096f674" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Add employee without login details but with middle name2021-01-19-20-46-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Adding multiple employees at one execution2021-01-20-19-58-28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Adding multiple employees at one execution2021-01-20-19-59-38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Add employee without login details2021-01-19-19-54-37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding multiple employees at one execution2021-01-20-20-07-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding multiple employees from excel2021-01-20-21-00-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding multiple employees without login details2021-01-19-21-22-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding multiple employees without login details2021-01-19-21-23-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Dashboard Tab verification2021-01-19-21-53-47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with invalid credentials2021-01-17-13-10-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with invalid credentials2021-01-17-13-10-59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with invalid credentials2021-01-18-21-41-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with valid credentials2021-01-20-21-15-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with valid credentials2021-01-20-21-20-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with valid credentials2021-01-20-21-42-26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with valid credentials2021-01-20-21-44-58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Unchecking unnecessary checkboxes2021-01-23-13-45-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Unchecking unnecessary checkboxes2021-01-23-13-46-58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Unchecking unnecessary checkboxes2021-01-23-13-49-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Unchecking unnecessary checkboxes2021-01-23-13-51-43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/pages/PIMConfigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/stepdefinitions/PIMConfigurationStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ConfigurePIM.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/notes/Class04" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/com/syntax/advancedJava/StringChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/runners/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/PageInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/PageInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/utils/ConfigsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/ConfigsReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/notes/Class03" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/notes/Class03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ConfigurePIM.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ConfigurePIM.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FailedTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/FailedTests.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-default-reports.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/runners/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/runners/TestRunner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/PageInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/PageInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/utils/CommonMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/notes/Class03" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/notes/Class03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/ConfigurePIM.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/ConfigurePIM.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CucumberReview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberReview/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +67,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CucumberReview" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -261,30 +227,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="372" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1610820080428" />
-    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1611414495227">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1611502283490">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611331614113" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611502283490" />
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611414495227" />
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1611501705265">
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1611506185392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611501705265" />
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611506185392" />
     <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
-    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1611501705265">
+    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1611506185392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611501705265" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611506185392" />
     <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
-    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1611501705265">
+    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1611506185392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611501705265" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611506185392" />
     <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
-    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1611501705265">
+    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1611506185392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611501705265" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611506185392" />
     <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
     <state x="476" y="172" key="SettingsEditor" timestamp="1610817555968">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -294,10 +260,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="253" width="587" height="534" key="find.popup/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611501288699" />
-    <state x="342" y="180" key="new project wizard" timestamp="1611275851118">
+    <state x="342" y="180" key="new project wizard" timestamp="1611506181248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="180" key="new project wizard/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611275851118" />
+    <state x="342" y="180" key="new project wizard/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611506181248" />
     <state x="638" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1610836354208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

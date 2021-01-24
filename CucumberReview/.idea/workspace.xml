@@ -23,12 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcd5d742-e357-4736-8701-138c4841300f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/com/syntax/advancedJava/StringChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CucumberFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CucumberFramework/src/test/java/com/hrms/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/src/test/java/com/hrms/runners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFramework/src/test/resources/features/ConfigurePIM.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/src/test/resources/features/ConfigurePIM.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFramework/target/FailedTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/target/FailedTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFramework/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/target/cucumber-default-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFramework/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFramework/target/test-classes/features/ConfigurePIM.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/target/test-classes/features/ConfigurePIM.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CucumberFramework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="JUnit.SmokeRunner">
     <configuration name="Feature: search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">

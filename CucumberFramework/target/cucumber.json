@@ -1,22 +1,22 @@
 [
   {
-    "line": 2,
+    "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-01-22T16:01:17.214Z",
-        "line": 6,
-        "name": "Login with valid credentials",
+        "start_timestamp": "2021-01-24T15:21:47.343Z",
+        "line": 4,
+        "name": "Unchecking unnecessary checkboxes",
         "description": "",
-        "id": "login-functionality;login-with-valid-credentials",
+        "id": "configure-pim---optional-fields;unchecking-unnecessary-checkboxes",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 6203000000,
+              "duration": 6740000000,
               "status": "passed"
             },
-            "line": 7,
+            "line": 5,
             "name": "navigate to HRMS login page",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.navigate_to_hrms_login_page()"
@@ -25,10 +25,10 @@
           },
           {
             "result": {
-              "duration": 367000000,
+              "duration": 376000000,
               "status": "passed"
             },
-            "line": 8,
+            "line": 6,
             "name": "enter valid credentials",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.enter_valid_credentials()"
@@ -37,10 +37,10 @@
           },
           {
             "result": {
-              "duration": 1577000000,
+              "duration": 1530000000,
               "status": "passed"
             },
-            "line": 9,
+            "line": 7,
             "name": "click on login button",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.click_on_login_button()"
@@ -49,10 +49,10 @@
           },
           {
             "result": {
-              "duration": 65000000,
+              "duration": 66000000,
               "status": "passed"
             },
-            "line": 10,
+            "line": 8,
             "name": "verify dashboard is displayed",
             "match": {
               "location": "com.hrms.stepdefinitions.LoginStepDefinition.verify_dashboard_is_displayed()"
@@ -61,52 +61,101 @@
           },
           {
             "result": {
-              "duration": 1222000000,
+              "duration": 4079000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "click on PIM",
+            "match": {
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_PIM()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 72000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "click on configuration dropdown",
+            "match": {
+              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.click_on_configuration_dropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 443000000,
               "status": "passed"
             },
             "line": 11,
-            "name": "quit the browser",
+            "name": "click on optional fields",
             "match": {
-              "location": "com.hrms.stepdefinitions.LoginStepDefinition.quit_the_browser()"
+              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.click_on_optional_fields()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 58000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "click on edit button",
+            "match": {
+              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.click_on_edit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5348000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "uncheck unnecessary checkboxes",
+            "match": {
+              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.uncheck_unnecessary_checkboxes(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Show SSN field in Personal Details"
+                ]
+              },
+              {
+                "cells": [
+                  "Show SIN field in Personal Details"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 705000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "click on save button",
+            "match": {
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_save_button()"
             },
             "keyword": "And "
           }
         ],
         "tags": [
           {
-            "name": "@featureTag"
-          },
-          {
-            "name": "@login"
-          },
-          {
-            "name": "@validCreds"
+            "name": "@pim"
           }
         ]
       }
     ],
-    "name": "Login Functionality",
+    "name": "Configure PIM - Optional Fields",
     "description": "",
-    "id": "login-functionality",
+    "id": "configure-pim---optional-fields",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/login.feature",
-    "tags": [
-      {
-        "name": "@featureTag",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 1
-        }
-      },
-      {
-        "name": "@login",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 13
-        }
-      }
-    ]
+    "uri": "file:src/test/resources/features/ConfigurePIM.feature",
+    "tags": []
   }
 ]

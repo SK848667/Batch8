@@ -19,7 +19,7 @@ Scenario Outline will run all the steps same number of time depending on how man
 sets of data you have stored inside Examples. Examples is a must for scenario outline
 
 2)Datatable
-? will run your specific step multiple time (it will run)
+can pass parameters intabular format
 
 
 

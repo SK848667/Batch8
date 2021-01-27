@@ -4,6 +4,6 @@ public class Calculator {
 
     public static double doCalculations(int num1,int num2){
         System.out.println("Performing the calculations");
-       return com.syntax.reviewclass21.Divider.divide(num1,num2);
+       return Divider.divide(num1,num2);
     }
 }

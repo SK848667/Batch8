@@ -20,25 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5327c6-6ae6-4a12-b514-88f2d791c089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/ConstOverlDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/EmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/MethodOverTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/OverloadingConsDemoTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass14/ParentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/BankAppDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Divider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/ExceptionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/FinallyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/LowFundsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Test.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/BankAppDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/BankAppDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +60,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.StringChallenge">
-    <configuration name="ExcelFilesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class00review.reviewclass20.ExcelFilesDemo" />
+  <component name="RunManager" selected="Application.MapDemo2">
+    <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class33.MapDemo1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class00review.reviewclass20.*" />
+          <option name="PATTERN" value="com.syntax.class33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.HW.Solution" />
+    <configuration name="MapDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class33.MapDemo2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.HW.*" />
+          <option name="PATTERN" value="com.syntax.class33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class33.MapDemo3" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class33.MapDemo4" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,39 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class37.Task1" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class37.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhyTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class36.WhyTryCatch" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class36.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapDemo2" />
+        <item itemvalue="Application.MapDemo1" />
+        <item itemvalue="Application.MapDemo4" />
+        <item itemvalue="Application.MapDemo3" />
         <item itemvalue="Application.StringChallenge" />
-        <item itemvalue="Application.WhyTryCatch" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ExcelFilesDemo" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -182,28 +168,32 @@
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611355583199" />
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609206772440" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1611355099661">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1611708040453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611355099661" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611708040453" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611685365334" />
     <state width="1860" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
     <state width="1033" height="370" key="GridCell.Tab.0.bottom/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855900" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1611355099661">
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1611708040453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611355099661" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611708040453" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611685365334" />
     <state width="1860" height="279" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
     <state width="1033" height="370" key="GridCell.Tab.0.center/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855900" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1611355099660">
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1611708040453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611355099660" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611708040453" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611685365334" />
     <state width="1860" height="279" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
     <state width="1033" height="370" key="GridCell.Tab.0.left/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855899" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1611355099661">
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1611708040453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611355099661" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611708040453" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611685365334" />
     <state width="1860" height="279" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609287593030" />
     <state width="1033" height="370" key="GridCell.Tab.0.right/3840.-680.1080.1880/0.0.1920.1040/1920.0.1536.824@3840.-680.1080.1880" timestamp="1609814855900" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1611332034033">
@@ -214,6 +204,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="253" width="951" height="534" key="find.popup/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611332235687" />
+    <state x="342" y="140" key="new project wizard" timestamp="1611707928279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611707928279" />
     <state x="660" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1609171079716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

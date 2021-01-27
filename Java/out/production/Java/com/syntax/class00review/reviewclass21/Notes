@@ -1,0 +1,8 @@
+Exceptions handling in Java:
+Exceptions are unwanted behaviours that disturbs the normal flow of code.
+Why Exception handling why not put if else conditions?
+1)we can not cover all of the issues by writing if else conditions
+2) Exception handling mechanism in java provides us a standard way to find out the issues in our code.
+finilize()
+This method is called by GC whenever the instance of your class is destroyed to free up class leverl
+resources.

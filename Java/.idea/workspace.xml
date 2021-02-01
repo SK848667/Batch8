@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5327c6-6ae6-4a12-b514-88f2d791c089" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/BankAppDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/BankAppDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class00review/reviewclass21/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class33/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/src/com/company/SolarSYstem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CucumberFramework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CucumberReview" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -163,10 +159,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1611355583199">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1611769131087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611355583199" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1611769131087" />
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609206772440" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1611708040453">
       <screen x="0" y="0" width="1920" height="1040" />

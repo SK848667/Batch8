@@ -3,19 +3,28 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-01-24T16:35:16.674Z",
         "line": 4,
-        "name": "Unchecking unnecessary checkboxes",
+        "name": "",
         "description": "",
-        "id": "configure-pim---optional-fields;unchecking-unnecessary-checkboxes",
-        "type": "scenario",
-        "keyword": "Scenario",
+        "type": "background",
+        "keyword": "Background",
         "steps": [
           {
             "result": {
-              "error_message": "java.lang.NullPointerException\r\n\tat com.hrms.stepdefinitions.LoginStepDefinition.enter_valid_credentials(LoginStepDefinition.java:18)\r\n\tat ✽.enter valid credentials(file:///C:/Users/SK/IntelliJ/CucumberFramework/src/test/resources/features/ConfigurePIM.feature:6)\r\n",
-              "duration": 5000000,
-              "status": "failed"
+              "duration": 6353000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "navigate to HRMS login page",
+            "match": {
+              "location": "com.hrms.stepdefinitions.LoginStepDefinition.navigate_to_hrms_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 348000000,
+              "status": "passed"
             },
             "line": 6,
             "name": "enter valid credentials",
@@ -26,7 +35,8 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 1546000000,
+              "status": "passed"
             },
             "line": 7,
             "name": "click on login button",
@@ -37,8 +47,8 @@
           },
           {
             "result": {
-              "duration": 1000000,
-              "status": "skipped"
+              "duration": 54000000,
+              "status": "passed"
             },
             "line": 8,
             "name": "verify dashboard is displayed",
@@ -49,7 +59,8 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 4246000000,
+              "status": "passed"
             },
             "line": 9,
             "name": "click on PIM",
@@ -60,34 +71,87 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 717000000,
+              "status": "passed"
             },
             "line": 10,
-            "name": "click on configuration dropdown",
+            "name": "click on add employee button",
             "match": {
-              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.click_on_configuration_dropdown()"
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_add_employee_button()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-24T00:23:07.203Z",
+        "line": 55,
+        "name": "Adding Employee and database validation",
+        "description": "",
+        "id": "add-employee-functionality;adding-employee-and-database-validation",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 624000000,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "enter first name \"John\", middle name \"John\" and last name \"Doe\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"John\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"John\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Doe\"",
+                  "offset": 58
+                }
+              ],
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.enter_first_name_middle_name_and_last_name(java.lang.String,java.lang.String,java.lang.String)"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 85000000,
+              "status": "passed"
             },
-            "line": 11,
-            "name": "click on optional fields",
+            "line": 57,
+            "name": "capture employeeId",
             "match": {
-              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.click_on_optional_fields()"
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.capture_employeeId()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 1363000000,
+              "status": "passed"
             },
-            "line": 12,
-            "name": "click on edit button",
+            "line": 58,
+            "name": "click on save button",
             "match": {
-              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.click_on_edit_button()"
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_save_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "java.lang.NullPointerException\r\n\tat com.hrms.utils.DbUtils.getResultSet(DbUtils.java:35)\r\n\tat com.hrms.utils.DbUtils.getDbDataIntoList(DbUtils.java:49)\r\n\tat com.hrms.stepdefinitions.DBSteps.collect_employee_data_from_hrms_database(DBSteps.java:19)\r\n\tat ✽.collect employee data from hrms database(file:///C:/Users/SK/IntelliJ/CucumberFramework/src/test/resources/features/addEmployee.feature:59)\r\n",
+              "duration": 5000000,
+              "status": "failed"
+            },
+            "line": 59,
+            "name": "collect employee data from hrms database",
+            "match": {
+              "location": "com.hrms.stepdefinitions.DBSteps.collect_employee_data_from_hrms_database()"
             },
             "keyword": "Then "
           },
@@ -95,49 +159,29 @@
             "result": {
               "status": "skipped"
             },
-            "line": 13,
-            "name": "uncheck unnecessary checkboxes",
+            "line": 60,
+            "name": "very data from db and ui is matched",
             "match": {
-              "location": "com.hrms.stepdefinitions.PIMConfigurationStepDefinition.uncheck_unnecessary_checkboxes(io.cucumber.datatable.DataTable)"
-            },
-            "rows": [
-              {
-                "cells": [
-                  "Show SSN field in Personal Details"
-                ]
-              },
-              {
-                "cells": [
-                  "Show SIN field in Personal Details"
-                ]
-              }
-            ],
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "status": "skipped"
-            },
-            "line": 16,
-            "name": "click on save button",
-            "match": {
-              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_save_button()"
+              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.very_data_from_db_and_ui_is_matched()"
             },
             "keyword": "And "
           }
         ],
         "tags": [
           {
-            "name": "@pim"
+            "name": "@db"
+          },
+          {
+            "name": "@regression"
           }
         ]
       }
     ],
-    "name": "Configure PIM - Optional Fields",
+    "name": "Add Employee Functionality",
     "description": "",
-    "id": "configure-pim---optional-fields",
+    "id": "add-employee-functionality",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/ConfigurePIM.feature",
+    "uri": "file:src/test/resources/features/addEmployee.feature",
     "tags": []
   }
 ]

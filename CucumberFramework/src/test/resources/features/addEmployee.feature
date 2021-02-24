@@ -50,3 +50,12 @@ Feature: Add Employee Functionality
     @excelTask
   Scenario: Adding multiple employees from exel
     When add multiple employees from exel "AddEmployee" sheet and verify they are added
+
+  @db @regression
+  Scenario: Adding Employee and database validation
+    When enter first name "John", middle name "John" and last name "Doe"
+    And capture employeeId
+    And click on save button
+    Then collect employee data from hrms database
+    And very data from db and ui is matched
+

@@ -3,6 +3,7 @@ package com.hrms.stepdefinitions;
 import com.hrms.utils.CommonMethods;
 import com.hrms.utils.Constants;
 import com.hrms.utils.ExcelUtils;
+import com.hrms.utils.GlobalVariables;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -10,6 +11,7 @@ import org.junit.Assert;
 
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 public class AddEmployeeStepDefinition extends CommonMethods {
 
@@ -107,4 +109,22 @@ public class AddEmployeeStepDefinition extends CommonMethods {
     }
 
 
+    @When("capture employeeId")
+    public void capture_employeeId() {
+        GlobalVariables.emp_Id = addEmployeePage.empIDTextbox.getAttribute("value");
+    }
+
+    @Then("very data from db and ui is matched")
+    public void very_data_from_db_and_ui_is_matched() {
+        String expectedEmployeeData = GlobalVariables.employeeData;
+        String actualEmployeeData = "";
+        for (Map<String, String> actualEmployeeDataMap : GlobalVariables.dbList) {
+            Set<String> keys = actualEmployeeDataMap.keySet();
+            for (String key : keys) {
+                actualEmployeeData += actualEmployeeDataMap.get(key);
+            }
+        }
+        actualEmployeeData = actualEmployeeData.trim();
+        Assert.assertEquals("Verifying Employee Data", actualEmployeeData, expectedEmployeeData);
+    }
 }

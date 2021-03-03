@@ -19,8 +19,17 @@ import static org.hamcrest.Matchers.*;
 //then()
 public class HardCode {
     String BaseURI = RestAssured.baseURI = "http://3.237.189.167/syntaxapi/api";
-    String token = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTQyNzcwOTEsImlzcyI6ImxvY2FsaG9zdCIsImV4cCI6MTYxNDMyMDI5MSwidXNlcklkIjoiMjQ3NiJ9.WAFv3Bv9U6SmFHE0LCOf1NVGr6PI9xEx1qOuALWqKvU";
+    String token = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTQ3MzU4MzksImlzcyI6ImxvY2FsaG9zdCIsImV4cCI6MTYxNDc3OTAzOSwidXNlcklkIjoiMjQ3NiJ9.wDXEMctYqky6VCD8to2siXC6yCL_S1p4SxA4DjDHFN4";
     static String employeeID;
+
+    public void sampleTest() {
+        RequestSpecification preparingGetOneEmployeeRequest= given().header("Authorization",token).header("Content-Type","Application/json").queryParam("employee_id","11374");
+        Response getOneEmployeeResponse=preparingGetOneEmployeeRequest.when().get("/getOneEmployee.php");
+        System.out.println(getOneEmployeeResponse.asString());
+    }
+
+
+
 
     @Test
     public void GetOneEmployee() {
@@ -69,6 +78,8 @@ public class HardCode {
         createEmployeeResponse.then().assertThat().body("Message", equalTo("Entry Created"));
         //Assert that Employee ID is 15863A//id will be new every time SO will compare by emp_firstname
         createEmployeeResponse.then().assertThat().body("Employee[0].emp_firstname", equalTo("Steven"));
+        createEmployeeResponse.then().header("Server","Apache/2.4.39 (Win64) PHP/7.2.18");
+
     }
 
     @Test
@@ -84,6 +95,14 @@ public class HardCode {
         boolean VerifyEmployeeID = empID.equalsIgnoreCase("16182A");
         System.out.println(VerifyEmployeeID);
         Assert.assertTrue((VerifyEmployeeID));
+        getCreatedEmployeeResponse.then().assertThat().statusCode(200);
+
+        String response=getCreatedEmployeeResponse.asString();
+        JsonPath js=new JsonPath(response);
+
+        String firstName=js.getString("employee[0].emp_firstname");
+
+        Assert.assertEquals(firstName,"Steven");
         //same assert but different way
         //getCreatedEmployeeResponse.then().assertThat().body("employee[0].employee_id", equalTo("15436A"));
     }
@@ -160,7 +179,7 @@ public class HardCode {
     }
 
     @Test
-    public void cGETallEmployees() {
+    public void GETallEmployees() {
         RequestSpecification getAllEmployeesRequest = given().header("Content-Type","application/json").header("Authorization",token);
 
         Response getAllEmployeesResponse = getAllEmployeesRequest.when().get("/getAllEmployees.php");
@@ -183,8 +202,25 @@ public class HardCode {
                 break;
             }
         }
+    }
+
+
+    @Test
+    public void PUTupdateCreatedEmployee() {
+
+        given().body("{\r\n"
+                + "    \"employee_id\":\"employeeID\" ,\r\n"
+                + "  \"emp_firstname\": \"Moazzam\",\r\n"
+                + "  \"emp_lastname\": \"updated\",\r\n"
+                + "  \"emp_middle_name\": \"Sadiq\",\r\n"
+                + "  \"emp_gender\": \"M\",\r\n"
+                + "  \"emp_birthday\": \"2021-01-13\",\r\n"
+                + "    \"emp_job_title\":\"Cloud Architect\",\r\n"
+                + " \"emp_status\": \"Employee\"\r\n"
+                + "}");
+
 
 
     }
-
 }
+

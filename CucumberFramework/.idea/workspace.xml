@@ -23,25 +23,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53b94d5-63dc-42eb-9cda-4c610096f674" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API/src/test/resources/JsonData/createUser.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/JenkinsDevProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/src/com/collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JenkinsDevProject/src/com/collection/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../API/API.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/HardCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/HardCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/apiTestingFinalStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/apiTestingFinalStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/apiConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/apiConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/apiPayloadConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/apiPayloadConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/src/test/resources/features/apiWorkFlow.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/resources/features/apiWorkFlow.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/FailedTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/FailedTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/cucumber-default-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/HardCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/HardCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/apiTestingFinalStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/apiTestingFinalStep.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/apiConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/apiConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/apiPayloadConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/apiPayloadConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/features/apiWorkFlow.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/features/apiWorkFlow.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-default-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/api/Testing/HardCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/BaseClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,26 @@
       <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources\testdata" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HardCode.GetCreatedEmployee">
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="com.hrms.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HardCode.CreateEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberFramework" />
       <extension name="coverage">
@@ -111,22 +130,6 @@
       <option name="PACKAGE_NAME" value="com.hrms.api.Testing" />
       <option name="MAIN_CLASS_NAME" value="com.hrms.api.Testing.HardCode" />
       <option name="METHOD_NAME" value="CreateEmployee" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HardCode.DeleteEmployeeRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CucumberFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hrms.api.Testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hrms.api.Testing" />
-      <option name="MAIN_CLASS_NAME" value="com.hrms.api.Testing.HardCode" />
-      <option name="METHOD_NAME" value="DeleteEmployeeRequest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,22 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HardCode.PartialUpdatedEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CucumberFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hrms.api.Testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hrms.api.Testing" />
-      <option name="MAIN_CLASS_NAME" value="com.hrms.api.Testing.HardCode" />
-      <option name="METHOD_NAME" value="PartialUpdatedEmployee" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HardCode.getJobTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberFramework" />
       <extension name="coverage">
@@ -180,13 +167,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrms.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hrms.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Feature: login" />
         <item itemvalue="JUnit.HardCode.GetCreatedEmployee" />
         <item itemvalue="JUnit.HardCode.getJobTitle" />
         <item itemvalue="JUnit.HardCode.CreateEmployee" />
-        <item itemvalue="JUnit.HardCode.DeleteEmployeeRequest" />
-        <item itemvalue="JUnit.HardCode.PartialUpdatedEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -239,30 +241,30 @@
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1614524294467" />
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614276520212" />
     <state x="4432" y="231" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611963282967" />
-    <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1614277196816">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="472" key="GridCell.Tab.0.bottom" timestamp="1615052848201">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1614220458367" />
+    <state width="1877" height="472" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615052848201" />
     <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196816" />
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
-    <state width="1877" height="322" key="GridCell.Tab.0.center" timestamp="1614277196815">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="4" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
+    <state width="1877" height="472" key="GridCell.Tab.0.center" timestamp="1615052848201">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1614220458367" />
+    <state width="1877" height="472" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615052848201" />
     <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196815" />
-    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
-    <state width="1877" height="322" key="GridCell.Tab.0.left" timestamp="1614277196815">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="4" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
+    <state width="1877" height="472" key="GridCell.Tab.0.left" timestamp="1615052848201">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1614220458367" />
+    <state width="1877" height="472" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615052848201" />
     <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196815" />
-    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
-    <state width="1877" height="322" key="GridCell.Tab.0.right" timestamp="1614277196815">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="4" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
+    <state width="1877" height="472" key="GridCell.Tab.0.right" timestamp="1615052848201">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1614220458367" />
+    <state width="1877" height="472" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615052848201" />
     <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196815" />
-    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611327913346" />
+    <state width="1493" height="4" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1614132893685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

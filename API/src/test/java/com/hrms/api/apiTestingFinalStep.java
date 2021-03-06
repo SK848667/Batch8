@@ -35,7 +35,9 @@ public class apiTestingFinalStep {
         //preparing request to create Employee
         request=given().header(apiConstants.Header_Content_type,apiConstants.Content_type)
                 .header(apiConstants.Header_Authorization,generateTokenSteps.token)
-                .body(apiPayloadConstants.createEmployeeBody());
+                //.body(apiPayloadConstants.createEmployeeBody());
+        .body();
+
 
 //        File input=new File("C:\\Users\\SK\\IntelliJ\\API\\src\\test\\resources\\JsonData\\createUser.json");
 //        JsonObject CreateUserData=null;

@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
                     glue = "com/hrms/api",//we need tu glue out step definition-implementation
                     dryRun = false, //!!!!!!!!!!!!!!//when set as true,will run over the feature steps a reveal unimplemented
         // (features file yellow highlighted) dry run looks ahead  --finds unimplemented--->does not run at all
-                    tags = "@apiWorkFlow", //adding tag ,for multiple use: tags= {"@smoke","@whatever"}
+                    tags = "@apiWorkflow", //adding tag ,for multiple use: tags= {"@smoke","@whatever"}
                     monochrome = false,
                     plugin = {"pretty", // print executed steps inside of your console
                             "html:target/cucumber-default-reports.html", //inside of target folder add cucumber-default-reports folder, // generate default html report

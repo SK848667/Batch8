@@ -8,7 +8,7 @@ Feature: Login Functionality
     When enter valid credentials
     And click on login button
     Then verify dashboard is displayed
-    And quit the browser
+    #And quit the browser
 
   @smoke @syntax @invalidCreds @regression @anyTag #adding multiple scenario level tags
   Scenario: Login with invalid credentials
@@ -16,7 +16,7 @@ Feature: Login Functionality
     When enter invalid credentials
     And click on login button
     Then verify error message
-    And quit the browser
+    #And quit the browser
 
 #HW----------------------------------------------
   Scenario: Login with empty userName

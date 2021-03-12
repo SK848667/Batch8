@@ -56,6 +56,6 @@ Feature: Add Employee Functionality
     When enter first name "John", middle name "John" and last name "Doe"
     And capture employeeId
     And click on save button
-    Then collect employee data from hrms database
-    And very data from db and ui is matched
+    #Then collect employee data from hrms database
+    #And very data from db and ui is matched
 

@@ -1,12 +1,14 @@
 #Author : Steven Klyman
-@apiWorkFlow
-Feature: Syntax HRMS API WorkFlow
-  Description: This feature file tests Syntax HRMS API WorkFlow
+
+
+@apiWorkflow
+Feature: Syntax HRMS API Workflow
+  Description:This feature file tests Syntax HRMS API WrokFlow
 
   Background:
-    Given  a JWT is generated
+    Given a JWT is generated
 
-  Scenario: Create an Employee
+  Scenario: Creating an Employee
     Given a request is prepared to create an employee
     When a POST call is made to create an Employee
     Then the status code for creating an employee is 201
@@ -14,12 +16,14 @@ Feature: Syntax HRMS API WorkFlow
     And the employeeID "Employee[0].employee_id" is stored in the global variable to be used for other calls
 
 
-    Scenario: Retrieving the created employee
-      Given a request is prepared to retrieve the created employee
-      When a GET call is made to retrieve the created Employee
-      Then the status code for retrieving the created employee is 200
-      And the retrieved EmployeeID "employee[0].employee_id" matches the globally stored EmployeeID
-      And the retrieved data matched the data used to create the employee
+  Scenario: Retrieving the created employee
+    Given a request is prepared to retrieve the created employee
+    When  a GET call is made to retrieve the created Employee
+    Then the status code for retrieving the created employee is 200
+    And the retrieved EmployeeID "employee[0].employee_id" matches the globally stored EmployeeID
+    And the retrieved data at "employee" matches the data used to create the employee with employee ID "employee[0].employee_id"
+      |emp_firstname| emp_middle_name|emp_lastname|emp_birthday|emp_gender|emp_job_title|emp_status|
+      |     moazzam  | s               |   sadiq |  2021-02-27  |     Male  |  Cloud Architect |Employee|
 
 
 
@@ -28,7 +32,6 @@ Feature: Syntax HRMS API WorkFlow
     When a PUT call is made to update the employee
     Then the status code is 201
     And the updated employee contains key "Message" and value "Entry updated"
-
 
   Scenario: Retrieving the updated employee
     Given a request is prepared to retrieve the updated employee
@@ -43,7 +46,6 @@ Feature: Syntax HRMS API WorkFlow
     Then the status code is 201
     And the partially updated employee contains key "Message" and value "Entry updated"
     And the partially update employee "employee[0].emp_firstname" matches the globally stored employee first name
-
 
   Scenario: Delete the created employee
     Given a request is prepared to delete the employee
@@ -62,4 +64,3 @@ Feature: Syntax HRMS API WorkFlow
     Given a request is prepared to get all employees status
     When a Get call is made to retrieve the status of all employees
     Then it contains the value1 "Employee" value2 "Worker"
-

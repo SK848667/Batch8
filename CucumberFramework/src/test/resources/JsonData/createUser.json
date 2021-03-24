@@ -1,0 +1,11 @@
+
+{
+  "employee_id": "18301A",
+  "emp_firstname": "Steven",
+  "emp_lastname": "Klyman",
+  "emp_middle_name": null,
+  "emp_gender": "M",
+  "emp_birthday": "1988-02-29",
+  "emp_status": "Employee",
+  "emp_job_title": "Manager"
+}

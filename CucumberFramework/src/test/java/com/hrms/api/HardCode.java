@@ -4,15 +4,13 @@ import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import javafx.beans.binding.When;
 import org.junit.Assert;
 import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
-//import static org.hamcrest.CoreMatchers.equalTo;
-import static io.restassured.RestAssured.when;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.*;
+import static org.hamcrest.Matchers.containsString;
+import static org.hamcrest.Matchers.equalTo;
 
 //given()
 //when()
@@ -86,13 +84,13 @@ public class HardCode {
     public void GetCreatedEmployee() {
         RequestSpecification getCreatedEmployeeRequest = given().header("Authorization", token)
                 .header("Content_Type", "Application/json")
-                .queryParam("employee_id", "18301A");
+                .queryParam("employee_id", "18304A");
         Response getCreatedEmployeeResponse = getCreatedEmployeeRequest.when().get("/getOneEmployee.php");
         //getCreatedEmployeeResponse.prettyPrint();
         String empID = getCreatedEmployeeResponse.body().jsonPath().getString("employee[0].employee_id");
 
         //we are checking if the empID is equal to the one mentioned in string
-        boolean VerifyEmployeeID = empID.equalsIgnoreCase("16182A");
+        boolean VerifyEmployeeID = empID.equalsIgnoreCase("18304A");
         System.out.println(VerifyEmployeeID);
         Assert.assertTrue((VerifyEmployeeID));
         getCreatedEmployeeResponse.then().assertThat().statusCode(200);
@@ -112,7 +110,7 @@ public class HardCode {
         RequestSpecification updateEmployeeRequest = given().header("Authorization", token)
                 .header("Content_Type", "Application/json")
                 .body("{\n" +
-                        "  \"employee_id\": \"15436A\",\n" +
+                        "  \"employee_id\": \"18304A\",\n" +
                         "  \"emp_firstname\": \"Steven\",\n" +
                         "  \"emp_lastname\": \"Klyman\",\n" +
                         "  \"emp_middle_name\": null,\n" +
@@ -140,7 +138,7 @@ public class HardCode {
     public void PartialUpdatedEmployee() {
         RequestSpecification partialUpdatedEmployeeRequest = given().header("Authorization", token)
                 .header("Content-Type", "Application/json").body("{\n" +
-                        "  \"employee_id\": \"18301A\",\n" +
+                        "  \"employee_id\": \"18304A\",\n" +
                         "  \"emp_firstname\": \"Steveeee\"\n" +
                         "}");
         Response PartialUpdatedEmployeeResponse = partialUpdatedEmployeeRequest.when()
@@ -160,7 +158,7 @@ public class HardCode {
     public void DeleteEmployeeRequest() {
         RequestSpecification deleteEmployeeRequest = given().header("Authorization", token)
                 .header("Content-Type", "Application/json")
-                .queryParam("employee_id", "18301A");
+                .queryParam("employee_id", "18304A");
         Response DeleteEmployeeResponse = deleteEmployeeRequest.when().delete("/deleteEmployee.php");
     DeleteEmployeeResponse.prettyPrint();
 
@@ -195,7 +193,6 @@ public class HardCode {
         for(int i=0; i<count ;i++) {
             String allEmployeeIDs=js.getString("Employees["+i+"].employee_id");
             if (allEmployeeIDs.contentEquals(employeeID)) {
-
                 System.out.println("Employee ID:"+employeeID+"is present in the body");
                 String FirstNameOfEmpID=js.getString("Employees["+i+"].emp_firstname");
                 System.out.println(FirstNameOfEmpID);

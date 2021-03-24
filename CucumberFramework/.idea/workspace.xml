@@ -14,8 +14,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53b94d5-63dc-42eb-9cda-4c610096f674" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DevProject2" beforeDir="false" afterPath="$PROJECT_DIR$/../DevProject2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JenkinsDevProject" beforeDir="false" afterPath="$PROJECT_DIR$/../JenkinsDevProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/api/HardCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/api/apiTestingFinalSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/api/generateTokenSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/runners/apiRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/apiCommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/apiConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/apiPayloadConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/JsonData/createUser.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/apiWorkFlow.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/api/HardCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/api/apiTestingFinalSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/api/generateTokenSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/runners/apiRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/apiWorkFlow.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/HardCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/HardCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/cucumber-default-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/HardCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/HardCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/PageInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/testbase/PageInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hrms/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FailedTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/FailedTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-default-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/PageInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/testbase/PageInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hrms/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hrms/utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JenkinsDevProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +79,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNGFramework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -60,86 +87,67 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SK\IntelliJ\CucumberFramework\src\test\resources" />
+      <recent name="C:\Users\SK\IntelliJ\CucumberFramework\src\test\resources\features" />
+      <recent name="C:\Users\SK\IntelliJ\CucumberFramework\src\test\java\com\hrms\utils" />
+      <recent name="C:\Users\SK\IntelliJ\CucumberFramework\src\test\java\com\hrms" />
+      <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources\testdata" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hrms.runners" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources" />
       <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\java\com\hrms\stepdefinitions" />
       <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources\features" />
       <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.hrms.runners" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SK\IntelliJ\CucumberFrameworkBatch8\src\test\resources\testdata" />
-    </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Adding Employee and database validation">
-    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
-      <option name="GLUE" value="com.hrms.stepdefinitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="CucumberFramework" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: login" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Adding Employee and database validation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/addEmployee.feature" />
-      <option name="GLUE" value="com.hrms.stepdefinitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="CucumberFramework" />
-      <option name="NAME_FILTER" value="^Adding Employee and database validation$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Adding Employee and database validation$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Adding Employee and database validation" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HardCode.GetCreatedEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="HardCode.GETallEmployees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hrms.api.Testing.*" />
+          <option name="PATTERN" value="com.hrms.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hrms.api.Testing" />
-      <option name="MAIN_CLASS_NAME" value="com.hrms.api.Testing.HardCode" />
-      <option name="METHOD_NAME" value="GetCreatedEmployee" />
+      <option name="PACKAGE_NAME" value="com.hrms.api" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.api.HardCode" />
+      <option name="METHOD_NAME" value="GETallEmployees" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HardCode.getJobTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HardCode.PartialUpdatedEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hrms.api.Testing.*" />
+          <option name="PATTERN" value="com.hrms.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hrms.api.Testing" />
-      <option name="MAIN_CLASS_NAME" value="com.hrms.api.Testing.HardCode" />
-      <option name="METHOD_NAME" value="getJobTitle" />
+      <option name="PACKAGE_NAME" value="com.hrms.api" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.api.HardCode" />
+      <option name="METHOD_NAME" value="PartialUpdatedEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardCode.UpdateEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrms.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hrms.api" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.api.HardCode" />
+      <option name="METHOD_NAME" value="UpdateEmployee" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,13 +168,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="apiRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrms.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hrms.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.hrms.runners.apiRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: Adding Employee and database validation" />
         <item itemvalue="JUnit.TestRunner" />
-        <item itemvalue="Cucumber Java.Feature: login" />
-        <item itemvalue="JUnit.HardCode.GetCreatedEmployee" />
-        <item itemvalue="JUnit.HardCode.getJobTitle" />
+        <item itemvalue="JUnit.apiRunner" />
+        <item itemvalue="JUnit.HardCode.GETallEmployees" />
+        <item itemvalue="JUnit.HardCode.PartialUpdatedEmployee" />
+        <item itemvalue="JUnit.HardCode.UpdateEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -219,29 +242,29 @@
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615507831312" />
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614276520212" />
     <state x="4432" y="231" key="FileChooserDialogImpl/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1611963282967" />
-    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1615253787923">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1616608584110">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615253787923" />
-    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196816" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616608584110" />
     <state width="1493" height="4" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
-    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1615253787923">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1616608584109">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615253787923" />
-    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196815" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616608584109" />
     <state width="1493" height="4" key="GridCell.Tab.0.center/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
-    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1615253787923">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1616608584109">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615253787923" />
-    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196815" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616608584109" />
     <state width="1493" height="4" key="GridCell.Tab.0.left/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
-    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1615253787923">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1616608584109">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1615253787923" />
-    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614277196815" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616608584109" />
     <state width="1493" height="4" key="GridCell.Tab.0.right/0.0.1920.1040/3840.14.1536.824/1920.0.1920.1040@3840.14.1536.824" timestamp="1615052699327" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1614132893685">
       <screen x="0" y="0" width="1920" height="1040" />

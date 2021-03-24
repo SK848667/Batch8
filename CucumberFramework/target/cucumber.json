@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10109000000,
+              "duration": 11239000000,
               "status": "passed"
             },
             "line": 5,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 385000000,
+              "duration": 355000000,
               "status": "passed"
             },
             "line": 6,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 1800000000,
+              "duration": 1544000000,
               "status": "passed"
             },
             "line": 7,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 59000000,
+              "duration": 67000000,
               "status": "passed"
             },
             "line": 8,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 1617000000,
+              "duration": 1614000000,
               "status": "passed"
             },
             "line": 9,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 788000000,
+              "duration": 843000000,
               "status": "passed"
             },
             "line": 10,
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-09T01:28:49.470Z",
+        "start_timestamp": "2021-03-24T17:55:58.290Z",
         "line": 55,
         "name": "Adding Employee and database validation",
         "description": "",
@@ -94,7 +94,7 @@
         "steps": [
           {
             "result": {
-              "duration": 566000000,
+              "duration": 532000000,
               "status": "passed"
             },
             "line": 56,
@@ -120,7 +120,7 @@
           },
           {
             "result": {
-              "duration": 46000000,
+              "duration": 54000000,
               "status": "passed"
             },
             "line": 57,
@@ -132,37 +132,13 @@
           },
           {
             "result": {
-              "duration": 1225000000,
+              "duration": 1158000000,
               "status": "passed"
             },
             "line": 58,
             "name": "click on save button",
             "match": {
               "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.click_on_save_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "error_message": "java.lang.NullPointerException\r\n\tat com.hrms.utils.DbUtils.getResultSet(DbUtils.java:35)\r\n\tat com.hrms.utils.DbUtils.getDbDataIntoList(DbUtils.java:49)\r\n\tat com.hrms.stepdefinitions.DBSteps.collect_employee_data_from_hrms_database(DBSteps.java:19)\r\n\tat ✽.collect employee data from hrms database(file:///C:/Users/SK/IntelliJ/CucumberFramework/src/test/resources/features/addEmployee.feature:59)\r\n",
-              "duration": 9000000,
-              "status": "failed"
-            },
-            "line": 59,
-            "name": "collect employee data from hrms database",
-            "match": {
-              "location": "com.hrms.stepdefinitions.DBSteps.collect_employee_data_from_hrms_database()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "status": "skipped"
-            },
-            "line": 60,
-            "name": "very data from db and ui is matched",
-            "match": {
-              "location": "com.hrms.stepdefinitions.AddEmployeeStepDefinition.very_data_from_db_and_ui_is_matched()"
             },
             "keyword": "And "
           }

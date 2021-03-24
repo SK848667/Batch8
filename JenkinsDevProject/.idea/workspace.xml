@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f07b29b-81b5-48f4-a1eb-1fb4b2c53e1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CucumberFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevProject2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevProject2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevProject2" beforeDir="false" afterPath="$PROJECT_DIR$/../DevProject2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection/Main.java" afterDir="false" />
     </list>
